@@ -1,1 +1,3 @@
-print("value is: ", val)
+# Undefined value
+
+print("value is: ", value)
