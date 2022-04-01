@@ -1,7 +1,7 @@
 from subprocess import Popen, PIPE
 
 # script path/name that we want to test
-filePath = 'Sample Error Codes'
+filePath = 'Error samples'
 scriptName = '\\test1.py'                                        
 
 p = Popen(['python', filePath + scriptName], stdout=PIPE, stderr=PIPE)    # Run the script in shell and retrieve stdout and stderr
