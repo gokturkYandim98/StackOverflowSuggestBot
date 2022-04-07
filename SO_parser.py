@@ -21,7 +21,7 @@ driver.get(SO_pythonPage)                                       # Open the given
 #driver.refresh()                                               # Refresh the page
 
 
-searchText = 'test'
+searchText = '[python] index out of range'
 driver.find_element_by_name("q").clear()                            # Clear the searchbar text (q is the element name of the searchbar in browser)
 driver.find_element_by_name("q").send_keys(searchText + Keys.ENTER)     # Append new keyword(s) to search bar
 
