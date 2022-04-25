@@ -45,9 +45,11 @@ def requestsAPI():
             i+=1
         except:
             time.sleep(10)
+            if r.status_code==443:
+                break
     dfItem = pd.DataFrame.from_records(questions)
     dfItem.head(5)
-    dfItem.to_csv("question_data.csv")
+    dfItem.to_csv("data.csv")
     
 
 requestsAPI()
