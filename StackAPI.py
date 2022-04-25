@@ -28,6 +28,7 @@ def libraryAPI():
 
 def requestsAPI():
     api_key='YqYacsm9i5b2gxBbdsQUxg(('
+    #api_key="QjDXYYOi0oHOU)LwtDxO*Q(("
     i=1
     request_statement = "https://api.stackexchange.com/2.3/tags/python/faq?&site=stackoverflow&pagesize=100&page=" + str(i)+"&key="+api_key
     quota_remaining=10000
@@ -44,10 +45,23 @@ def requestsAPI():
             print("Processed page " + str(i) + ", question length: " + str(len(questions)))
             i+=1
         except:
+            if r.status_code==443:
+                break
             time.sleep(10)
-    dfItem = pd.DataFrame.from_records(questions)
-    dfItem.head(5)
-    dfItem.to_csv("question_data.csv")
+
+    df = pd.DataFrame.from_records(questions)
+    htmlCodes = (
+            ("'", '&#39;'),
+            ('"', '&quot;'),
+            ('>', '&gt;'),
+            ('<', '&lt;'),
+            ('&', '&amp;')
+        )
+    for code in htmlCodes:
+        df["title"]=df[df["title"].replace(code[1], code[0])]
+    
+    df.to_csv("data.csv")
+    print(df.head(5))
     
 
 requestsAPI()
