@@ -3,6 +3,7 @@ import requests
 import json
 import pandas as pd
 import time
+from datetime import datetime
 api_key='YqYacsm9i5b2gxBbdsQUxg(('
 """
 def libraryAPI():
@@ -26,6 +27,9 @@ def libraryAPI():
         print('Accepted Answer ID :- {0}'.format(accepted_answer_id))
         print("\n----------------------------------------------------------------\n")"""
 
+def f(d):
+    if pd.isnull(d)==False:
+        d=pd.to_datetime(int(d), utc=True, unit='ms')
 def requestsAPI():
     api_key='YqYacsm9i5b2gxBbdsQUxg(('
     #api_key="QjDXYYOi0oHOU)LwtDxO*Q(("
@@ -34,7 +38,7 @@ def requestsAPI():
     quota_remaining=10000
     questions=[]
     has_more=True
-    while  quota_remaining>30 and has_more==True:       
+    while  quota_remaining>0 and has_more==True:       
         r=requests.get(request_statement)
         resp=json.loads(r.text)
         try:
@@ -48,6 +52,7 @@ def requestsAPI():
             if r.status_code==443:
                 break
             time.sleep(10)
+        break
 
     df = pd.DataFrame.from_records(questions)
     htmlCodes = (
@@ -58,9 +63,18 @@ def requestsAPI():
             ('&', '&amp;')
         )
     for code in htmlCodes:
-        df["title"]=df[df["title"].replace(code[1], code[0])]
+        df["title"]=[r.replace(code[1], code[0]) for r in df["title"]]
     
-    df.to_csv("data.csv")
+    dates=["locked_date","last_activity_date","creation_date","last_edit_date","protected_date"]
+
+    for col in dates:
+        df=df.astype({col:str})
+        for i, r in enumerate(df[col]):  
+            if r!="nan":
+                r1=datetime.fromtimestamp(float(r)).strftime('%Y-%m-%d')
+                df.at[i, col] = r1 
+           
+    df.to_csv("data2.csv")
     print(df.head(5))
     
 
