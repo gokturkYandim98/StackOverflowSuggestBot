@@ -32,7 +32,6 @@ def f(d):
     if pd.isnull(d)==False:
         d=pd.to_datetime(int(d), utc=True, unit='ms')
 def requestsAPI():
-    api_key='YqYacsm9i5b2gxBbdsQUxg(('
     #api_key="QjDXYYOi0oHOU)LwtDxO*Q(("
     i=1
     request_statement = "https://api.stackexchange.com/2.3/questions?&tagged=python&site=stackoverflow&pagesize=100&page=" + str(i)+"&key="+api_key
