@@ -33,19 +33,26 @@ def requestsAPI():
     answers=[]
     answers_count={} #dict to have record of answer count for each question
     questions=[]
-    df=pd.read_csv('data3.csv')
-    c=0
+    df=pd.read_csv('SO_Dataset\SO_data_error_queries.csv')
+    groups=[]
+    group_total=0
+    current_group=[]
     for index, row in df.iterrows():
-        c+=1
-        q=row["question_id"]
-        #questions.append(str(q))
-        #if len(questions)==30:
-            #que=";".join(questions)
-        request_statement = "https://api.stackexchange.com/2.3/questions/{}/answers?order=desc&sort=votes&site=stackoverflow&key=".format(q)+api_key
+         group_total+=row["answer_count"]
+         if group_total<31:
+             current_group.append(str(row["question_id"]))
+         else:
+            group_total=row["answer_count"]
+            groups.append(current_group)
+            current_group=[str(row["question_id"])]
+
+    for group in groups:        
+        que = ";".join(group)
+        request_statement = "https://api.stackexchange.com/2.3/questions/{}/answers?order=desc&sort=votes&site=stackoverflow&key=".format(que)+api_key
         r=requests.get(request_statement)
         resp=json.loads(r.text)
-        quota_remaining=resp["quota_remaining"]
         try:
+            quota_remaining=resp["quota_remaining"]
             for item in resp["items"]:
                     #create a new dict including necessary columns of the answer
                 item_new={
@@ -71,8 +78,6 @@ def requestsAPI():
             time.sleep(10)
         print("Remaining request quota:",quota_remaining,"\n")
         #questions=[]
-        if c==10:
-            break
 
     df2=pd.DataFrame.from_dict(answers)
 
@@ -82,9 +87,9 @@ def requestsAPI():
             if r!="nan":
                 r1=datetime.fromtimestamp(float(r)).strftime('%Y-%m-%d')
                 df.at[i, "creation_date"] = r1 
-        df.to_csv("SO_answer_data.csv")
+        df.to_csv("SO_error_titles_answer_data.csv")
     except:
     #df=df.drop_duplicates()
-        df.to_csv("SO_answer_data.csv")
+        df.to_csv("SO_error_titles_answer_data.csv")
     print(df.head(5))
 requestsAPI()
