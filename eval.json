@@ -17,12 +17,12 @@
         "The Closest": {
             "ID": 2732,
             "Words": "conda report reticul environ",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 19057,
             "Words": "cento machin",
-            "isValid": true
+            "isValid": false
         }
     },
     "2": {
@@ -30,7 +30,7 @@
         "The Closest": {
             "ID": 542,
             "Words": "xarray assign coordin dimens",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 6538,
@@ -43,7 +43,7 @@
         "The Closest": {
             "ID": 5293,
             "Words": "unsupport operand type error use",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 13615,
@@ -82,12 +82,12 @@
         "The Closest": {
             "ID": 25047,
             "Words": "error command setup py egg_info fail",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 14975,
             "Words": "smooth curv error boundari",
-            "isValid": true
+            "isValid": false
         }
     },
     "7": {
@@ -95,12 +95,12 @@
         "The Closest": {
             "ID": 7860,
             "Words": "nltk stopword fail lookuperror",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 14747,
             "Words": "http client get request tmdb api fail error",
-            "isValid": true
+            "isValid": false
         }
     },
     "8": {
@@ -186,12 +186,12 @@
         "The Closest": {
             "ID": 15213,
             "Words": "remov error argument pars",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 2608,
             "Words": "keep get error argument",
-            "isValid": true
+            "isValid": false
         }
     },
     "15": {
@@ -238,12 +238,12 @@
         "The Closest": {
             "ID": 3187,
             "Words": "chang categori channel permiss return error miss permiss novu discord py",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 21083,
             "Words": "error decod byte send imag discord",
-            "isValid": true
+            "isValid": false
         }
     },
     "19": {
@@ -251,12 +251,12 @@
         "The Closest": {
             "ID": 3372,
             "Words": "remov error modul sage",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 11154,
             "Words": "pyglet shader work keep error",
-            "isValid": true
+            "isValid": false
         }
     },
     "20": {
@@ -264,12 +264,12 @@
         "The Closest": {
             "ID": 1240,
             "Words": "issu typeerror loop column list data frame",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 10770,
             "Words": "tri use dictionari function reciev typeerror",
-            "isValid": true
+            "isValid": false
         }
     },
     "21": {
@@ -277,12 +277,12 @@
         "The Closest": {
             "ID": 6477,
             "Words": "joblib return typeerror pickl weakref object code differ input data",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 22450,
             "Words": "typeerror got unexpect keyword argument input use tensorflow kera",
-            "isValid": true
+            "isValid": false
         }
     },
     "22": {
@@ -303,12 +303,12 @@
         "The Closest": {
             "ID": 14804,
             "Words": "object attribut estimators_ error",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 19836,
             "Words": "object attribut attribut error foodspawn object attribur isfoodonscreen",
-            "isValid": true
+            "isValid": false
         }
     },
     "24": {
@@ -342,12 +342,12 @@
         "The Closest": {
             "ID": 16237,
             "Words": "quantlib hestonmodelhelp class throw error",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 6562,
             "Words": "jpype import class jar",
-            "isValid": true
+            "isValid": false
         }
     },
     "27": {
@@ -355,12 +355,12 @@
         "The Closest": {
             "ID": 10818,
             "Words": "discord py error unknown messag",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 18677,
             "Words": "unexplain invalid syntax error",
-            "isValid": true
+            "isValid": false
         }
     },
     "28": {
@@ -368,12 +368,12 @@
         "The Closest": {
             "ID": 15476,
             "Words": "stop pytest error fail",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 8946,
             "Words": "deprecationwarn elementwis comparison fail rais error futur",
-            "isValid": true
+            "isValid": false
         }
     },
     "29": {
@@ -394,12 +394,12 @@
         "The Closest": {
             "ID": 16144,
             "Words": "user defin except error use tri except",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 8644,
             "Words": "use defin function twice withought error",
-            "isValid": true
+            "isValid": false
         }
     },
     "31": {
@@ -407,7 +407,7 @@
         "The Closest": {
             "ID": 14766,
             "Words": "modul name sqlalchemi conda packag manag",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 6567,
@@ -446,12 +446,12 @@
         "The Closest": {
             "ID": 21177,
             "Words": "panda valueerror reindex duplic axi tri backfil miss date zero",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 4733,
             "Words": "attributeerror datafram object attribut take dask",
-            "isValid": true
+            "isValid": false
         }
     },
     "35": {
@@ -459,12 +459,12 @@
         "The Closest": {
             "ID": 6586,
             "Words": "name given modul error flask",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 8217,
             "Words": "flask argument error devic take argument given",
-            "isValid": true
+            "isValid": false
         }
     },
     "36": {
@@ -485,12 +485,12 @@
         "The Closest": {
             "ID": 23819,
             "Words": "flask permissionerror errno permiss deni",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 9754,
             "Words": "error handl best practic flask restapi",
-            "isValid": true
+            "isValid": false
         }
     },
     "38": {
@@ -498,12 +498,12 @@
         "The Closest": {
             "ID": 1576,
             "Words": "requests_html import modul name requests_html",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 12474,
             "Words": "window import faiss error dll load fail",
-            "isValid": true
+            "isValid": false
         }
     },
     "39": {
@@ -550,12 +550,12 @@
         "The Closest": {
             "ID": 2731,
             "Words": "flask error typeerror run got unexpect keyword argument host",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 16370,
             "Words": "django manag py runserv command request resourc found server error",
-            "isValid": true
+            "isValid": false
         }
     },
     "43": {
@@ -641,12 +641,12 @@
         "The Closest": {
             "ID": 12090,
             "Words": "unabl creat histogram slice due datetim datatyp error",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 18177,
             "Words": "fix codec encod error use panda",
-            "isValid": true
+            "isValid": false
         }
     },
     "50": {
@@ -667,12 +667,12 @@
         "The Closest": {
             "ID": 7244,
             "Words": "permissionerror errno permiss deni flask run",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 23819,
             "Words": "flask permissionerror errno permiss deni",
-            "isValid": true
+            "isValid": false
         }
     },
     "52": {
@@ -706,12 +706,12 @@
         "The Closest": {
             "ID": 20738,
             "Words": "read gekko error code posit etc",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 14572,
             "Words": "remov bad magic number error pyinstal",
-            "isValid": true
+            "isValid": false
         }
     },
     "55": {
@@ -745,12 +745,12 @@
         "The Closest": {
             "ID": 14191,
             "Words": "docker swarm throw error swarm alreadi part swarm",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 3353,
             "Words": "fitz modul name frontend error docker",
-            "isValid": true
+            "isValid": false
         }
     },
     "58": {
@@ -797,12 +797,12 @@
         "The Closest": {
             "ID": 24250,
             "Words": "fix regist namespac django error",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 23918,
             "Words": "fix django rest framework templat",
-            "isValid": true
+            "isValid": false
         }
     },
     "62": {
@@ -810,12 +810,12 @@
         "The Closest": {
             "ID": 12937,
             "Words": "nameerror link list data structur",
-            "isValid": true
+            "isValid": false
         },
         "Second Closest": {
             "ID": 8594,
             "Words": "nameerror migrat django",
-            "isValid": true
+            "isValid": false
         }
     },
     "63": {
