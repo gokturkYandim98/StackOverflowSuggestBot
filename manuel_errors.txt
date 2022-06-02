@@ -148,3 +148,55 @@ http error stotipy spotify API
 File Not Found using .tif file
 Dimension out of range error expected to be in range of [-1, 0], but got 1
 gcloud run deploy gives error "image must be specified"
+got NameError in linked list
+matplotlib gives error with splitted list
+pandas converting column type to datetime in csv file
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+TypeError: train_test_split() got an unexpected keyword argument 'traiset'
+pip install rioxarray gives RuntimeError
+django makemigrations says no such table
+Error while giving different parameters with multiclass classificaiton in Keras
+pyttsx3 error  while converting to exe
+TypeError: can only concatenate str (not 'int') to str
+NameError: name 'Movie' is not defined in pgzrun/python
+Keras ValueError: Shapes (None, 1) and (None, 100, 100, 200) are incompatible
+python giving nonetype object is not iterable
+Error - input expected at most 2 argument, got 5
+Crawling data with Selenium throwing TimeoutException
+while parsing JSON TypeError: list indices must be integers or slices, not str 
+ModuleNotFoundError: No module named 'Networkx'
+Python modulenotfounderror for an installed library
+unresolved reference in python
+ValueError: cannot reshape array of size 700 into shape (50,50,7)
+TypeError: bytes like object is required not str
+ValueError: could not convert string to float: 'price'
+python 'bool' object is not subscriptable
+pygraphviz_layout gives KeyError: Node not in graph
+error when reading from csv with datatable
+pytest AttributeError: 'Function' object has no attribute 'get_customer'
+got error  __init__() got an unexpected keyword argument 'movie_Artist' in python
+ImportError: cannot import name 'Pooling' from 'sklearn'
+typeerror: 'str' object is not callable
+chromedriver not working while web scraping filenotfound error
+ascii' codec can't decode byte 0xe7 in position 0: ordinal not in range(256)
+ValueError: could not convert string to float, after removing unwanted characters in column (Pandas)
+encoding error "utf-8" python
+Pycharm: Unresolved reference error when I open a project
+python break outside loop error in for loop
+cannot multiply matrix numpy
+python3 installing mysqlclient gives error
+scraping HTML span by class gives error
+python path no such file or directory
+AttributeError: 'Request' object has no attribute 'question'
+ValueError: expected dense_x to have shape (57,) but got array with shape (4,)
+sorting df by date gives check for duplicates error
+AttributeError occurs trying to copy content from a file to another
+when I try to reach a character it says TypeError: string indices must be integers
+Python nested exception statement in another exception try catch
+TypeError: __init__() missing 1 required positional argument: 'on_click'
+PdfReadError: EOF marker not found while parsing word document in python
+flask error on heroku gives error while opening an excel file
+math.sin() gives error
+Python raises ValueError when comparing int and array value
+request import gives error while webscraping
+PermissionError: [Errno 13] Permission denied: 'video.mp4'
