@@ -98,3 +98,53 @@ django.db.utils.OperationalError: 1005, 'Table `xyz` cannot be created.`#sql-600
 MissingSectionHeaderError: There are no section headers in the file (configparser) 
 When the server stops the connection, Firefox displays a connection reset error
 While using np.random.randint(), numba.core.errors.TypingError occurred
+Python No module named myModule 
+Getting TypeError: 'value' object cannot be interpreted as an integer Error
+AttributeError: module 'vehicle' has no attribute 'gas_tank_volume'
+OSError: [Errno 22] Invalid argument: 'downloads/project/jquery.js?v=1.4.3'
+IndexError: list index out of range (my_list)[0]
+python GEKKO Solution Not Found
+NotADirectoryError in python
+python openpyxl module font attribute gives AttributeError
+PySpark: TypeError: 'Row' object is not callable : when using .contains
+python NLTK LookupError (resource_not_found)
+ValueError: Field 'age' expected a number but got 'name'
+AttributeError: 'list' object has no attribute 'map'
+MacOS Big Sur NPM Error Can't find Python executable 
+python solution to ValueError: could not convert string to float error
+Python bottle Error: 413 Request Entity Too Large
+xml to tfrecord file convertion gives an error
+kafka module pyspark ModuleNotFound
+python NameError: name 'value' is not defined
+Python multiprocessing: TypeError: cannot pickle 'names' object
+ValueError: 'students' must have either 2 or 3 dimensions
+AttributeError: 'int' object has no attribute 'user_id' project.py
+pip ImportError: cannot import name 'appdirs'
+NameError: name 'exit' is not defined
+RuntimeError: CUDA error: invalid device ordinal
+ModuleNotFoundError: No module named 'matplotlib' on mac OS
+NameError: name 'istanbul' is not defined
+OSError: [WinError 2] No such file or directory. Could not install packages
+Tkinter IO error when loading a file
+PyCharm permission denied error
+TypeError while reeading a CSV file
+Value error while viewing a file
+key error when a new list element is added
+Pip cannot find EnvironmentError metadata
+pycharm  exit code -1073740791 (0xC0000409) 
+Django KeyError
+Django new model object raises OperationalError 
+ImportError: No module named data_preprocess
+No columns to parse from file when converting csv to xlsx file
+python error: Microsoft Visual C++ 14.0 or greater is required
+python IndentationError 
+Error while importing ChatBot
+django permission denied to create database
+Error 'int' object is not subscriptable
+Visual studio code error while fetching extensions
+Cloudinary [Error 111] on Pythonanywhere
+casting float to int
+http error stotipy spotify API
+File Not Found using .tif file
+Dimension out of range error expected to be in range of [-1, 0], but got 1
+gcloud run deploy gives error "image must be specified"
