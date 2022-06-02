@@ -1,0 +1,1261 @@
+{
+    "0": {
+        "Original": "How to handle calculations on huge numpy array to avoid memory allocation error?",
+        "Paraphrases": [
+            [
+                "how do i solve a huge numpy array that loads an error message when the code is passed to an external variable?",
+                85
+            ],
+            [
+                "how do i minimize memory allocation error while running large numpy arrays?",
+                71
+            ],
+            [
+                "tell me the best method for handling large numpy arrays?",
+                70
+            ],
+            [
+                "how do i avoid memory allocation errors in large arrays?",
+                68
+            ],
+            [
+                "tell me the best way to handle huge numpy arrays?",
+                66
+            ],
+            [
+                "how can i avoid the memory allocation error of large arrays?",
+                66
+            ],
+            [
+                "tell me the best way to handle large numpy arrays to avoid memory allocation errors?",
+                35
+            ],
+            [
+                "how can i handle a massive numpy array and avoid memory allocation error?",
+                34
+            ],
+            [
+                "how can i handle large numpy arrays to avoid memory allocation errors?",
+                33
+            ]
+        ]
+    },
+    "1": {
+        "Original": "Scipy optimize: error trying to put function to minimize",
+        "Paraphrases": [
+            [
+                "Scipy optimize: error trying to put function to minimize",
+                0
+            ]
+        ]
+    },
+    "2": {
+        "Original": "type error ocurs when I re-answer a \"while\"-loop",
+        "Paraphrases": [
+            [
+                "type error ocurs when I re-answer a \"while\"-loop",
+                0
+            ]
+        ]
+    },
+    "3": {
+        "Original": "Multiprocessing in a loop, \"Pool not running\" error",
+        "Paraphrases": [
+            [
+                "the multiprocessing in a loop pool has an error",
+                18
+            ]
+        ]
+    },
+    "4": {
+        "Original": "How do you exit a python program without the error statement?",
+        "Paraphrases": [
+            [
+                "how do i write a script that doesn't contain an error statement in python?",
+                53
+            ],
+            [
+                "how do i exit a python program?",
+                43
+            ],
+            [
+                "how can i exit python without an error statement?",
+                31
+            ],
+            [
+                "how do you leave python without the error statement?",
+                26
+            ],
+            [
+                "how do i exit a python programmer without an error statement?",
+                21
+            ],
+            [
+                "how do you terminate a python program without an error statement?",
+                21
+            ],
+            [
+                "how do i exit a python program without an error statement?",
+                18
+            ],
+            [
+                "how do i exit a python program without the error statement?",
+                15
+            ],
+            [
+                "how do you exit a python program without the error statement?",
+                12
+            ]
+        ]
+    },
+    "5": {
+        "Original": "Python (Selenium): selenium.common.exceptions.WebDriverException: Message: An unknown error occurred while processing the specified command",
+        "Paraphrases": [
+            [
+                "python selenium seleniumcommonexceptionswebdriverexception message an unknown error occurred while the specified command was pressed",
+                41
+            ]
+        ]
+    },
+    "6": {
+        "Original": "Syntax error when trying to define complex exponential",
+        "Paraphrases": [
+            [
+                "syntax error when trying to define complex exponential equations",
+                22
+            ]
+        ]
+    },
+    "7": {
+        "Original": "error import cx_Freeze how i can resolve?",
+        "Paraphrases": [
+            [
+                "can you list the solutions for the error cxfreeze import?",
+                46
+            ],
+            [
+                "what are you guys looking for to fix the import error?",
+                45
+            ],
+            [
+                "what do i do when i try to fix a import error?",
+                42
+            ],
+            [
+                "how can i solve a error in the import error code cxfreeze?",
+                39
+            ],
+            [
+                "what error i'm experiencing with importcxfreeze?",
+                38
+            ]
+        ]
+    },
+    "8": {
+        "Original": "How can I plot a linear regression with error bars?",
+        "Paraphrases": [
+            [
+                "i'm just starting to learn linear regression on linux how do i plot the error bars?",
+                46
+            ],
+            [
+                "tell me the best way to plot linear regression?",
+                37
+            ],
+            [
+                "how do i plot a linear regression plot?",
+                29
+            ],
+            [
+                "is it possible to plot a linear regression with error bars?",
+                19
+            ],
+            [
+                "how can we plot linear regression with error bars?",
+                16
+            ],
+            [
+                "how do i plot a linear regression with error bars?",
+                15
+            ],
+            [
+                "how can i plot linear regression with error bars?",
+                14
+            ]
+        ]
+    },
+    "9": {
+        "Original": "error when connecting oracle in python using cx_Oracle",
+        "Paraphrases": [
+            [
+                "error when connecting to oracle in python using cxoracle",
+                15
+            ],
+            [
+                "error when connecting oracle with python using cxoracle",
+                15
+            ],
+            [
+                "error when connecting oracle to python using cxoracle",
+                14
+            ],
+            [
+                "an error when connecting oracle in python using cxoracle",
+                10
+            ]
+        ]
+    },
+    "10": {
+        "Original": "gtk-builder-error-quark: invalid object type 'WebKitWebView'",
+        "Paraphrases": [
+            [
+                "gtk-builder-error-quark: invalid object type 'WebKitWebView'",
+                0
+            ]
+        ]
+    },
+    "11": {
+        "Original": "How to send an error message being printed in an exception case by email to a user?",
+        "Paraphrases": [
+            [
+                "how do i send an error message to a user?",
+                58
+            ],
+            [
+                "how do you send an error message to a user by email?",
+                53
+            ],
+            [
+                "how do i send an error message by email to a user?",
+                49
+            ],
+            [
+                "how do i send a warning message in an exception case by email?",
+                45
+            ],
+            [
+                "how can i send an error message that's printed in an exception case?",
+                40
+            ],
+            [
+                "how do i send an error message when there is a printing error in an exception case by email to a user?",
+                35
+            ],
+            [
+                "is it possible to send an error message printed in an exception case via email?",
+                33
+            ],
+            [
+                "how can i send an error message in an exception case by email to a user?",
+                29
+            ],
+            [
+                "how do i send an error message being printed in an exception case by email to a user?",
+                14
+            ]
+        ]
+    },
+    "12": {
+        "Original": "this code is showing \"invalid syntax\" error on the first for loop",
+        "Paraphrases": [
+            [
+                "this code shows an error in syntax on the first loop",
+                36
+            ],
+            [
+                "this code displays an invalid syntax error on the first loop",
+                25
+            ],
+            [
+                "this code will show an invalid syntax error on the first for loop",
+                18
+            ]
+        ]
+    },
+    "13": {
+        "Original": "TypeError: 'module' object is not callable error with driver=webdriver(\"C:\\\\Python34\\\\Lib\\\\site-packages\\\\selenium\\\\webdriver\\\\chromedriver.exe\")",
+        "Paraphrases": [
+            [
+                "TypeError: 'module' object is not callable error with driver=webdriver(\"C:\\\\Python34\\\\Lib\\\\site-packages\\\\selenium\\\\webdriver\\\\chromedriver.exe\")",
+                0
+            ]
+        ]
+    },
+    "14": {
+        "Original": "receiving error 'Problems parsing JSON' when trying to comment on a pull request Using GitHub API",
+        "Paraphrases": [
+            [
+                "i received an error 'problems parsing json' when trying to comment on a request on the github api",
+                27
+            ],
+            [
+                "github is receiving the error 'problems parsing json' when you try to comment on a pull request using the apis",
+                26
+            ]
+        ]
+    },
+    "15": {
+        "Original": "AJAX Request CORS Policy error with Flask",
+        "Paraphrases": [
+            [
+                "AJAX Request CORS Policy error with Flask",
+                0
+            ]
+        ]
+    },
+    "16": {
+        "Original": "Python throwing multiple argument error when there is only one",
+        "Paraphrases": [
+            [
+                "python throws a multiple argument error when there is only one",
+                15
+            ]
+        ]
+    },
+    "17": {
+        "Original": "\"I am trying get the values of the single row based on drop down value selected. getting error with output.\"",
+        "Paraphrases": [
+            [
+                "i am trying to get the values of a single row based on the selected drop down value i'm getting an error when i rewrite the output",
+                58
+            ]
+        ]
+    },
+    "18": {
+        "Original": "Python with NLTK shows error at sent_tokenize and word_tokenize",
+        "Paraphrases": [
+            [
+                "Python with NLTK shows error at sent_tokenize and word_tokenize",
+                0
+            ]
+        ]
+    },
+    "19": {
+        "Original": "Python return error when trying to send a MySQL query that contains MySQL variables",
+        "Paraphrases": [
+            [
+                "python returned an error when trying to send a query to mysql that contains mysql variables",
+                29
+            ],
+            [
+                "python returns error when trying to send a mysql query with mysql variables",
+                25
+            ],
+            [
+                "python returns an error when trying to send a mysql query that contains mysql variables",
+                16
+            ]
+        ]
+    },
+    "20": {
+        "Original": "Keras Dense layer shape error",
+        "Paraphrases": [
+            [
+                "Keras Dense layer shape error",
+                0
+            ]
+        ]
+    },
+    "21": {
+        "Original": "Enter a valid date error received in django form",
+        "Paraphrases": [
+            [
+                "enter a valid date error in django form",
+                21
+            ],
+            [
+                "enter a valid error received in the django form",
+                21
+            ],
+            [
+                "enter a valid date error received in the django formular",
+                20
+            ]
+        ]
+    },
+    "22": {
+        "Original": "'TypeError: can only concatenate tuple (not \"str\") to tuple' error",
+        "Paraphrases": [
+            [
+                "'TypeError: can only concatenate tuple (not \"str\") to tuple' error",
+                0
+            ]
+        ]
+    },
+    "23": {
+        "Original": "Python count() type error when passing char casted number",
+        "Paraphrases": [
+            [
+                "Python count() type error when passing char casted number",
+                0
+            ]
+        ]
+    },
+    "24": {
+        "Original": "I tried making a quiz using tkinter in python and for some reason, i keep getting an error",
+        "Paraphrases": [
+            [
+                "i tried making a quiz using tkinter in python but for some reason i keep getting an error message on the test screen",
+                42
+            ]
+        ]
+    },
+    "25": {
+        "Original": "getting 403 error while using requests.get() python",
+        "Paraphrases": [
+            [
+                "getting 403 error while using requests.get() python",
+                0
+            ]
+        ]
+    },
+    "26": {
+        "Original": "how to ignore and skip a Python sftp error",
+        "Paraphrases": [
+            [
+                "how can you ignore an error message in a python script?",
+                38
+            ],
+            [
+                "how can you ignore a python error in a python port?",
+                37
+            ],
+            [
+                "how do i skip an error on a python webserver?",
+                35
+            ],
+            [
+                "how do i ignore the sftp error in python?",
+                35
+            ],
+            [
+                "how do i skip the python sftp error message?",
+                34
+            ],
+            [
+                "i'm learning to ignore a python error",
+                28
+            ],
+            [
+                "show some options to ignore a python sftp error?",
+                26
+            ],
+            [
+                "how can i skip a python sftp error?",
+                24
+            ]
+        ]
+    },
+    "27": {
+        "Original": "Getting error while converting model into pb file for android",
+        "Paraphrases": [
+            [
+                "the error was redirected while converting a model into a pb file for android",
+                26
+            ]
+        ]
+    },
+    "28": {
+        "Original": "pytesseract error in reading screenshot on clipboard",
+        "Paraphrases": [
+            [
+                "pytesseract error in reading screenshot on clipboard",
+                0
+            ]
+        ]
+    },
+    "29": {
+        "Original": "C# how to append errors into 1 single messagebox?",
+        "Paraphrases": [
+            [
+                "how can i append single error messages in c?",
+                38
+            ],
+            [
+                "c - how do i add two different errors to the same messagebox?",
+                31
+            ],
+            [
+                "how do i add errors into single html messageboxes?",
+                29
+            ],
+            [
+                "how do you add errors to the messagebox?",
+                29
+            ],
+            [
+                "how do you append errors to one messagebox?",
+                24
+            ],
+            [
+                "how do i record errors in a single messagebox?",
+                24
+            ],
+            [
+                "how do i append errors to one single message?",
+                24
+            ],
+            [
+                "how can i append errors into a single message box?",
+                18
+            ]
+        ]
+    },
+    "30": {
+        "Original": "Shape error for Vanilla RNN's dense layer in Keras?",
+        "Paraphrases": [
+            [
+                "how does a vanilla rnn dense layer function work in keras?",
+                39
+            ],
+            [
+                "are there shapes wrong in rnns in keras?",
+                35
+            ]
+        ]
+    },
+    "31": {
+        "Original": "Cannot run my script from my GitHub repository using Travic CI: Import error",
+        "Paraphrases": [
+            [
+                "Cannot run my script from my GitHub repository using Travic CI: Import error",
+                0
+            ]
+        ]
+    },
+    "32": {
+        "Original": "Flask SQLAlchemy Association Table: error creating backref",
+        "Paraphrases": [
+            [
+                "Flask SQLAlchemy Association Table: error creating backref",
+                0
+            ]
+        ]
+    },
+    "33": {
+        "Original": "Pandas raising an error when setting the output directory",
+        "Paraphrases": [
+            [
+                "pandas raise an error when setting the output directory",
+                15
+            ],
+            [
+                "pandas raised an error when setting the output directory",
+                15
+            ],
+            [
+                "the pandas raise an error when setting the output directory",
+                12
+            ]
+        ]
+    },
+    "34": {
+        "Original": "wifiphisher traceback. error after entering the number of AP",
+        "Paraphrases": [
+            [
+                "wifiphisher traceback. error after entering the number of AP",
+                0
+            ]
+        ]
+    },
+    "35": {
+        "Original": "Numpy function to check `>=0` with tolerance for floating point error",
+        "Paraphrases": [
+            [
+                "Numpy function to check `>=0` with tolerance for floating point error",
+                0
+            ]
+        ]
+    },
+    "36": {
+        "Original": "PyMongo insert_one exception/error handling",
+        "Paraphrases": [
+            [
+                "PyMongo insert_one exception/error handling",
+                0
+            ]
+        ]
+    },
+    "37": {
+        "Original": "can anyone help me, why I am getting food is not defined error ? I have attached the structure of Django module",
+        "Paraphrases": [
+            [
+                "can anyone help me, why I am getting food is not defined error ? I have attached the structure of Django module",
+                0
+            ]
+        ]
+    },
+    "38": {
+        "Original": "How to fix error \u201cThe filename, directory name, or volume label syntax is incorrect\u201d?",
+        "Paraphrases": [
+            [
+                "how do you fix an error when a name of a directory or volume name is not properly recognized?",
+                56
+            ],
+            [
+                "how can i fix a syntax error in the directory name or volume name files?",
+                50
+            ],
+            [
+                "how do i fix an error in filename - directory name - volume - label syntax?",
+                39
+            ]
+        ]
+    },
+    "39": {
+        "Original": "Python unicode error in linux but not windows",
+        "Paraphrases": [
+            [
+                "Python unicode error in linux but not windows",
+                0
+            ]
+        ]
+    },
+    "40": {
+        "Original": "This code takes forever to run but doesn't give an error",
+        "Paraphrases": [
+            [
+                "this code takes forever to run but does not give an error",
+                14
+            ]
+        ]
+    },
+    "41": {
+        "Original": "in Django project. When annotate in views, getting error that item is not defined",
+        "Paraphrases": [
+            [
+                "in Django project. When annotate in views, getting error that item is not defined",
+                0
+            ]
+        ]
+    },
+    "42": {
+        "Original": "Unable to locate element and no such element error using Selenium and Python",
+        "Paraphrases": [
+            [
+                "Unable to locate element and no such element error using Selenium and Python",
+                0
+            ]
+        ]
+    },
+    "43": {
+        "Original": "TensorFlow Keras dimension error for input layer",
+        "Paraphrases": [
+            [
+                "TensorFlow Keras dimension error for input layer",
+                0
+            ]
+        ]
+    },
+    "44": {
+        "Original": "Paperboy throwing error: TypeError: the JSON object must be str, not 'bytes'?",
+        "Paraphrases": [
+            [
+                "Paperboy throwing error: TypeError: the JSON object must be str, not 'bytes'?",
+                0
+            ]
+        ]
+    },
+    "45": {
+        "Original": "libarchive.public error even after installing libarchive in python",
+        "Paraphrases": [
+            [
+                "libarchive.public error even after installing libarchive in python",
+                0
+            ]
+        ]
+    },
+    "46": {
+        "Original": "What is causing this \"TypeError: a bytes-like object is required, not 'str'\" error?",
+        "Paraphrases": [
+            [
+                "What is causing this \"TypeError: a bytes-like object is required, not 'str'\" error?",
+                0
+            ]
+        ]
+    },
+    "47": {
+        "Original": "error while importing keras ModuleNotFoundError: No module named 'tensorflow.examples'; 'tensorflow' is not a package",
+        "Paraphrases": [
+            [
+                "error while importing keras ModuleNotFoundError: No module named 'tensorflow.examples'; 'tensorflow' is not a package",
+                0
+            ]
+        ]
+    },
+    "48": {
+        "Original": "OSError: Unable to open file (file signature not found) / End of HDF5 error back trace",
+        "Paraphrases": [
+            [
+                "OSError: Unable to open file (file signature not found) / End of HDF5 error back trace",
+                0
+            ]
+        ]
+    },
+    "49": {
+        "Original": "Working with pandas dataframe and Combining conditions gives ambiguity error",
+        "Paraphrases": [
+            [
+                "Working with pandas dataframe and Combining conditions gives ambiguity error",
+                0
+            ]
+        ]
+    },
+    "50": {
+        "Original": "Django model choice not raising error for an invalid choice",
+        "Paraphrases": [
+            [
+                "a django model selection does not raise an error for an invalid choice",
+                25
+            ],
+            [
+                "the django model choice is not generating an error for an invalid choice",
+                21
+            ],
+            [
+                "the django model choice does not raise an error for an invalid choice",
+                18
+            ]
+        ]
+    },
+    "51": {
+        "Original": "Getting error on converting list of string into a list with separate integer?",
+        "Paraphrases": [
+            [
+                "why is a list of string files being converted to an integer with an integer array?",
+                60
+            ],
+            [
+                "are you facing an error in converting a string into an integer?",
+                43
+            ],
+            [
+                "how do you convert a string list into a list with two separate integers?",
+                43
+            ],
+            [
+                "i get an error when i convert a string in a list with an integer?",
+                38
+            ],
+            [
+                "what does the procedure for converting a string string into a list with an integer?",
+                36
+            ]
+        ]
+    },
+    "52": {
+        "Original": "Scikit-Learn: How to deal with an unorderable types error?",
+        "Paraphrases": [
+            [
+                "how do i fix the unorderable types error?",
+                37
+            ],
+            [
+                "how can i ignore the unorderable types error?",
+                34
+            ],
+            [
+                "how can you deal with unordered type error?",
+                33
+            ],
+            [
+                "how do you deal with unorderable types error?",
+                31
+            ],
+            [
+                "how do i deal with an unorderable type error?",
+                29
+            ],
+            [
+                "how do i deal with an unorderable types error?",
+                28
+            ]
+        ]
+    },
+    "53": {
+        "Original": "'str' object cannot be interpreted as an integer : Python error",
+        "Paraphrases": [
+            [
+                "'str' object cannot be interpreted as an integer : Python error",
+                0
+            ]
+        ]
+    },
+    "54": {
+        "Original": "We get the following error in Robot Framework \"Keyword 'OperatingSystem.Create File' got positional argument after named arguments\"",
+        "Paraphrases": [
+            [
+                "We get the following error in Robot Framework \"Keyword 'OperatingSystem.Create File' got positional argument after named arguments\"",
+                0
+            ]
+        ]
+    },
+    "55": {
+        "Original": "Tkinter destroying Toplevel and creating another error",
+        "Paraphrases": [
+            [
+                "Tkinter destroying Toplevel and creating another error",
+                0
+            ]
+        ]
+    },
+    "56": {
+        "Original": "Create Version failed. Bad model detected with error: \"... No module named 'sklearn.impute._base'; 'sklearn.impute' is not a package. (Error code: 0)\"",
+        "Paraphrases": [
+            [
+                "Create Version failed. Bad model detected with error: \"... No module named 'sklearn.impute._base'; 'sklearn.impute' is not a package. (Error code: 0)\"",
+                0
+            ]
+        ]
+    },
+    "57": {
+        "Original": "How do I correct syntax error when attempting sqlite upsert?",
+        "Paraphrases": [
+            [
+                "list some good ways to fix the syntax error when trying to use sqlite upsert?",
+                37
+            ],
+            [
+                "how can i fix a syntax error when trying to use sqlite upsert?",
+                34
+            ],
+            [
+                "how do i correct syntax errors when sqlite upsert attempts?",
+                33
+            ],
+            [
+                "how do i correct a syntax error while running sqlite upsert?",
+                24
+            ],
+            [
+                "how do i correct a syntax error when attempting sqlite upsert?",
+                14
+            ]
+        ]
+    },
+    "58": {
+        "Original": "Why is my file closing and causing \"I/O operation on closed file\" error on line 51?",
+        "Paraphrases": [
+            [
+                "tell me the error code in the file closing system and how can i solve it in a closed file?",
+                66
+            ],
+            [
+                "why is my file closing on line 51?",
+                59
+            ],
+            [
+                "what's the error for closing a file on line 51?",
+                59
+            ],
+            [
+                "why is the file closing error on line 51?",
+                56
+            ]
+        ]
+    },
+    "59": {
+        "Original": "maximum recursion depth exceeded in cmp error while executing python manage.py runserver",
+        "Paraphrases": [
+            [
+                "maximum recursion depth exceeded in cmp error while executing python manage.py runserver",
+                0
+            ]
+        ]
+    },
+    "60": {
+        "Original": "Insert command not inserting or throwing error, does return @@IDENTITY",
+        "Paraphrases": [
+            [
+                "an insert command that does not insert or throw an error returns identity",
+                32
+            ]
+        ]
+    },
+    "61": {
+        "Original": "Trying to trace a circular import error in Django Python",
+        "Paraphrases": [
+            [
+                "the circular import error is located in django python 32",
+                41
+            ],
+            [
+                "can i trace a circular import error in python in django?",
+                32
+            ],
+            [
+                "trying to trace a circular import error in python in django",
+                26
+            ],
+            [
+                "how do you trace a circular error in django python?",
+                26
+            ],
+            [
+                "i'm trying to trace a circular import error in python in django",
+                25
+            ],
+            [
+                "i tried to trace a circular import error in python",
+                21
+            ],
+            [
+                "how can i trace a circular import error in django python?",
+                18
+            ],
+            [
+                "trying to trace a circular import error in django python",
+                12
+            ],
+            [
+                "i'm trying to trace a circular import error in django python",
+                11
+            ],
+            [
+                "i am trying to trace a circular import error in django python",
+                10
+            ]
+        ]
+    },
+    "62": {
+        "Original": "When I load Pillow with pygame, I got an error: \"ValueError: Unrecognized type of format\"",
+        "Paraphrases": [
+            [
+                "When I load Pillow with pygame, I got an error: \"ValueError: Unrecognized type of format\"",
+                0
+            ]
+        ]
+    },
+    "63": {
+        "Original": "Django error TypeError at /admin/ 'set' object is not reversible",
+        "Paraphrases": [
+            [
+                "django error type error on the object admin'set' is not reversible",
+                34
+            ],
+            [
+                "the django error typeerror of the admin'set' object is not reversible",
+                17
+            ]
+        ]
+    },
+    "64": {
+        "Original": "Python How to send email without having this error",
+        "Paraphrases": [
+            [
+                "python how can i send an email without error?",
+                33
+            ],
+            [
+                "python how can i send an email without an error?",
+                30
+            ],
+            [
+                "python how do you send an email without this error?",
+                28
+            ],
+            [
+                "python how can i send email without this error?",
+                25
+            ],
+            [
+                "python how do i send emails without this error?",
+                24
+            ],
+            [
+                "python how do i send e-mail without this error?",
+                24
+            ],
+            [
+                "python how can i send an email without having this error?",
+                21
+            ],
+            [
+                "python how do i send emails without getting this error?",
+                21
+            ]
+        ]
+    },
+    "65": {
+        "Original": "Why I'm getting this error when I import pdb? 'module' object has no attribute 'ascii_letters'",
+        "Paraphrases": [
+            [
+                "why do i get this error every time i import a new pdb file?",
+                68
+            ],
+            [
+                "why do i get this error when i import pdb?",
+                67
+            ]
+        ]
+    },
+    "66": {
+        "Original": "How to avoid the unbounded local error to create the big string?",
+        "Paraphrases": [
+            [
+                "what can i do to avoid the unbounded local error when i create a large string?",
+                24
+            ],
+            [
+                "how do i avoid the unbounded local error when creating a big string?",
+                23
+            ],
+            [
+                "how do i avoid the unbounded local error for creating a big string?",
+                21
+            ],
+            [
+                "how do i avoid the unbounded local error in creating the big string?",
+                19
+            ],
+            [
+                "how do i avoid the unbounded local error to create the large string?",
+                18
+            ],
+            [
+                "tell me the best way to avoid the unbounded local error to create the big string?",
+                17
+            ],
+            [
+                "how can i avoid the unbounded local error to create the big string?",
+                15
+            ],
+            [
+                "how do i avoid the unbounded local error to create the big string?",
+                14
+            ]
+        ]
+    },
+    "67": {
+        "Original": "google calendar api not adding event and not throwing an error",
+        "Paraphrases": [
+            [
+                "google calendar api not adding event and not throwing an error",
+                0
+            ]
+        ]
+    },
+    "68": {
+        "Original": "Encountering DLL error in OR Tools pywrapcp",
+        "Paraphrases": [
+            [
+                "Encountering DLL error in OR Tools pywrapcp",
+                0
+            ]
+        ]
+    },
+    "69": {
+        "Original": "Getting error while trying to code custom sort function",
+        "Paraphrases": [
+            [
+                "an error when trying to code a custom sort function",
+                22
+            ],
+            [
+                "i am getting a mistake while trying to code a custom sort function",
+                21
+            ],
+            [
+                "i got an error while trying to code custom sort function",
+                15
+            ]
+        ]
+    },
+    "70": {
+        "Original": "permalink error when calling get_absolute_url",
+        "Paraphrases": [
+            [
+                "an error occurs when calling getabsoluteurl",
+                22
+            ]
+        ]
+    },
+    "71": {
+        "Original": "How to fix Page Not Found (404) error in django",
+        "Paraphrases": [
+            [
+                "How to fix Page Not Found (404) error in django",
+                0
+            ]
+        ]
+    },
+    "72": {
+        "Original": "Transforming list into array and after that joining it with another array results in error",
+        "Paraphrases": [
+            [
+                "transforming a list into an array and then joining it with another array results in an error message",
+                36
+            ],
+            [
+                "transforming a list into an array and following that joining with another array results in an error",
+                32
+            ],
+            [
+                "transforming a list into an array and joining it with another array results in error",
+                28
+            ],
+            [
+                "transforming a list into an array and then joining it with another array results in an error",
+                28
+            ],
+            [
+                "transforming a list into an array and after that joining it with another array results in an error",
+                20
+            ]
+        ]
+    },
+    "73": {
+        "Original": "Getting error when installing package \"cufflinks\" in pycharm",
+        "Paraphrases": [
+            [
+                "when installing package cufflinks on pycharmo we get an error",
+                44
+            ],
+            [
+                "an error when installing pycharm package cufflinks",
+                36
+            ],
+            [
+                "error while installing package cufflinks in pycharm",
+                23
+            ],
+            [
+                "error when installing package cufflinks in pycharmii",
+                22
+            ],
+            [
+                "error when installing package cufflinks in pycharm",
+                20
+            ],
+            [
+                "get an error when installing package cufflinks in pycharm",
+                15
+            ]
+        ]
+    },
+    "74": {
+        "Original": "Why would you get NoneType error in python even when explicitly checking if None?",
+        "Paraphrases": [
+            [
+                "why do some python modules run this error with nonetype?",
+                67
+            ],
+            [
+                "why do you get nonetype error when using python on the linux-based python server?",
+                53
+            ],
+            [
+                "why is a nonetype error in python even though the exception in the checkbox is none?",
+                47
+            ]
+        ]
+    },
+    "75": {
+        "Original": "mathplotlib.finance error in python",
+        "Paraphrases": [
+            [
+                "mathplotlib.finance error in python",
+                0
+            ]
+        ]
+    },
+    "76": {
+        "Original": "Python json.load(file) error with valid JSON",
+        "Paraphrases": [
+            [
+                "Python json.load(file) error with valid JSON",
+                0
+            ]
+        ]
+    },
+    "77": {
+        "Original": "Facebook DrQA error - Object arrays cannot be loaded when allow_pickle=False",
+        "Paraphrases": [
+            [
+                "facebook drqa error - object arrays cannot be loaded when allowpicklefalse is set to",
+                22
+            ]
+        ]
+    },
+    "78": {
+        "Original": "Getting \"Command errored out with exit status 1: python setup.py egg_info\" while installing requirements in Google Colab",
+        "Paraphrases": [
+            [
+                "Getting \"Command errored out with exit status 1: python setup.py egg_info\" while installing requirements in Google Colab",
+                0
+            ]
+        ]
+    },
+    "79": {
+        "Original": "How to change error format of all errors using Connexion + Tornado",
+        "Paraphrases": [
+            [
+                "How to change error format of all errors using Connexion + Tornado",
+                0
+            ]
+        ]
+    },
+    "80": {
+        "Original": "Why am I getting this syntax error in SQLITE3?",
+        "Paraphrases": [
+            [
+                "i get this syntax error in sqlite3 why are my files not supported?",
+                52
+            ],
+            [
+                "why is there an error in sqlite3?",
+                31
+            ],
+            [
+                "why is the syntax error in sqlite3?",
+                25
+            ],
+            [
+                "why am i getting this syntax error on sqlite3?",
+                13
+            ]
+        ]
+    },
+    "81": {
+        "Original": "500 error message when i try and redirect to signup and login page in production",
+        "Paraphrases": [
+            [
+                "500 error message when i try and redirect to signup and login page in production",
+                0
+            ]
+        ]
+    },
+    "82": {
+        "Original": "How to fix error in web scraping with Python using BeautifulSoup4",
+        "Paraphrases": [
+            [
+                "how can i fix a web scraping error in python?",
+                48
+            ],
+            [
+                "show the ways to fix error in web scraping in python?",
+                38
+            ],
+            [
+                "how do i fix the errors while web scraping using python using beautifulsoup4u?",
+                29
+            ],
+            [
+                "how do i fix a web scraping error with python using beautifulsoup4?",
+                29
+            ],
+            [
+                "how do i fix a buggy error in web scraping using python using beautiful soup4?",
+                27
+            ],
+            [
+                "how do you fix errors with web scraping using python using beautifulsoup4?",
+                23
+            ],
+            [
+                "how can i fix an error in web scraping with python using beautifulsoup4?",
+                19
+            ]
+        ]
+    }
+}
