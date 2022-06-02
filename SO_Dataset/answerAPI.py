@@ -48,7 +48,7 @@ def requestsAPI():
 
     for group in groups:        
         que = ";".join(group)
-        request_statement = "https://api.stackexchange.com/2.3/questions/{}/answers?order=desc&sort=votes&site=stackoverflow&key=".format(que)+api_key
+        request_statement = "https://api.stackexchange.com/2.3/questions/{}/answers?order=desc&filter=withbody&sort=votes&site=stackoverflow&key=".format(que)+api_key
         r=requests.get(request_statement)
         resp=json.loads(r.text)
         try:
@@ -60,7 +60,9 @@ def requestsAPI():
                         "score": item["score"],
                         "creation_date": item["creation_date"],
                         "answer_id":item["answer_id"],
-                        "question_id": item["question_id"]
+                        "question_id": item["question_id"],
+                        "body": item["body"],
+                        "link": "https://stackoverflow.com/a/{}".format(item["answer_id"])
                     }
                 qid=item_new["question_id"]
                 if qid in list(answers_count.keys()):
