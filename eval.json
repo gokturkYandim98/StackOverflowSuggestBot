@@ -1,0 +1,3032 @@
+{
+    "0": {
+        "Test Input": "TypeError: Connect() with one argument",
+        "The Closest": {
+            "ID": "6536    19143091",
+            "Words": "6536    typeerror connect takes exactly one argument",
+            "isValid": true,
+            "Similarity": 0.797059178352356
+        },
+        "Second Closest": {
+            "ID": "21025    38616858",
+            "Words": "21025    cqlsh connection error ref take keyword arguments",
+            "isValid": true,
+            "Similarity": 0.5582849979400635
+        }
+    },
+    "1": {
+        "Test Input": "ModuleNot FoundError virtual",
+        "The Closest": {
+            "ID": "21151    58577235",
+            "Words": "21151    error activating virtual environment",
+            "isValid": false,
+            "Similarity": 0.9521731734275818
+        },
+        "Second Closest": {
+            "ID": "9866    67312258",
+            "Words": "9866    unboundlocalerror local variable var reference...",
+            "isValid": false,
+            "Similarity": 0.9315162301063538
+        }
+    },
+    "2": {
+        "Test Input": "ValueError: NumPy bool array can\u2019t assign 100 input to 90 output where mask true",
+        "The Closest": {
+            "ID": "6538    69292892",
+            "Words": "6538    get error valueerror numpy boolean array index...",
+            "isValid": false,
+            "Similarity": 0.807411789894104
+        },
+        "Second Closest": {
+            "ID": "542    71880746",
+            "Words": "542    xarray missingspatialdimensionerror assign coo...",
+            "isValid": true,
+            "Similarity": 0.7524867057800293
+        }
+    },
+    "3": {
+        "Test Input": "Pandas data frame unhashable type error",
+        "The Closest": {
+            "ID": "8502    68144030",
+            "Words": "8502    standardscaler python error scaling data",
+            "isValid": false,
+            "Similarity": 0.8674715757369995
+        },
+        "Second Closest": {
+            "ID": "10276    67038808",
+            "Words": "10276    error data scaling pandas data fram",
+            "isValid": true,
+            "Similarity": 0.8663939833641052
+        }
+    },
+    "4": {
+        "Test Input": "Google-trans-new throws an error on previously working code in Python",
+        "The Closest": {
+            "ID": "6540    68270026",
+            "Words": "6540    python google trans new throwing error code wo...",
+            "isValid": true,
+            "Similarity": 0.8649817705154419
+        },
+        "Second Closest": {
+            "ID": "19501    59960045",
+            "Words": "19501    google calendar api adding event throwing error",
+            "isValid": true,
+            "Similarity": 0.7071633338928223
+        }
+    },
+    "5": {
+        "Test Input": "AttributeError: The'str' object does not have the 'rotation' attribute",
+        "The Closest": {
+            "ID": "6778    69165928",
+            "Words": "6778    attributeerror str object attribute text error",
+            "isValid": true,
+            "Similarity": 0.7500603199005127
+        },
+        "Second Closest": {
+            "ID": "18154    21277462",
+            "Words": "18154    attributeerror str object attribute pop",
+            "isValid": true,
+            "Similarity": 0.7380973696708679
+        }
+    },
+    "6": {
+        "Test Input": "ERROR: During the installation of pyaudio, the command failed with an exit status of 1",
+        "The Closest": {
+            "ID": "21505    39315270",
+            "Words": "21505    importerror module named theano",
+            "isValid": false,
+            "Similarity": 0.9733670949935913
+        },
+        "Second Closest": {
+            "ID": "24798    54894636",
+            "Words": "24798    quandl jupyter notebook limitexceedederror",
+            "isValid": false,
+            "Similarity": 0.9732778072357178
+        }
+    },
+    "7": {
+        "Test Input": "Python win32ui.error:\u00a0CreateCompatibleDC failed with an error.",
+        "The Closest": {
+            "ID": "14747    63745217",
+            "Words": "14747    python http client get request tmdb api failed...",
+            "isValid": false,
+            "Similarity": 0.9202440977096558
+        },
+        "Second Closest": {
+            "ID": "25047    54603264",
+            "Words": "25047    error command python setup py egg_info failed",
+            "isValid": false,
+            "Similarity": 0.9169137477874756
+        }
+    },
+    "8": {
+        "Test Input": "Attempts to'requests.\u2019get have resulted in several failures for Python API",
+        "The Closest": {
+            "ID": "6544    69274026",
+            "Words": "6544    many errors trying requests get api python",
+            "isValid": true,
+            "Similarity": 0.7563961744308472
+        },
+        "Second Closest": {
+            "ID": "17181    61995394",
+            "Words": "17181    getting 403 error trying use requests get python",
+            "isValid": true,
+            "Similarity": 0.7440652847290039
+        }
+    },
+    "9": {
+        "Test Input": "Import error while using custom modules in Python 3",
+        "The Closest": {
+            "ID": "7198    68843846",
+            "Words": "7198    import error using tensorflow import lstm model",
+            "isValid": true,
+            "Similarity": 0.7792367339134216
+        },
+        "Second Closest": {
+            "ID": "2497    71348035",
+            "Words": "2497    error importing python custom logging module",
+            "isValid": true,
+            "Similarity": 0.7779666185379028
+        }
+    },
+    "10": {
+        "Test Input": "When I try to extract json information from a website, Python throws a keyword",
+        "The Closest": {
+            "ID": "6546    69085607",
+            "Words": "6546    python throws keyword error try get json metad...",
+            "isValid": true,
+            "Similarity": 0.7843807339668274
+        },
+        "Second Closest": {
+            "ID": "21509    58305626",
+            "Words": "21509    solve unexpected token syntax error json javas...",
+            "isValid": true,
+            "Similarity": 0.582782506942749
+        }
+    },
+    "11": {
+        "Test Input": "to_sql pyodbc count field invalid or syntax error",
+        "The Closest": {
+            "ID": "6547    50689082",
+            "Words": "6547    to_sql pyodbc count field incorrect syntax error",
+            "isValid": true,
+            "Similarity": 0.7865946292877197
+        },
+        "Second Closest": {
+            "ID": "19212    60306622",
+            "Words": "19212    django deleted ddbb table migrate anymore tabl...",
+            "isValid": true,
+            "Similarity": 0.7759120464324951
+        }
+    },
+    "12": {
+        "Test Input": "Argument 1 has the unexpected type 'QPushButton,' which causes TypeError",
+        "The Closest": {
+            "ID": "20712    45855928",
+            "Words": "20712    python bokeh hovertool formatters error unexpe...",
+            "isValid": true,
+            "Similarity": 0.7326749563217163
+        },
+        "Second Closest": {
+            "ID": "6548    62595160",
+            "Words": "6548    type error argument 1 unexpected type qpushbutton",
+            "isValid": true,
+            "Similarity": 0.7182178497314453
+        }
+    },
+    "13": {
+        "Test Input": "I'm trying to conduct analysis with Jupyter, and I've tried the code below, but I get a NameError instead. I defined df while starting",
+        "The Closest": {
+            "ID": "6549    69298807",
+            "Words": "6549    trying use jupyter run analysis run code get n...",
+            "isValid": true,
+            "Similarity": 0.7553838491439819
+        },
+        "Second Closest": {
+            "ID": "2483    71086195",
+            "Words": "2483    error installing cmc linear models python pack...",
+            "isValid": true,
+            "Similarity": 0.6325439214706421
+        }
+    },
+    "14": {
+        "Test Input": "python openpyxl.load_workbook\u00a0TypeError: No arguments are sent to Fill()",
+        "The Closest": {
+            "ID": "11811    27343430",
+            "Words": "11811    typeerror arguments converted string formatting",
+            "isValid": false,
+            "Similarity": 0.7749408483505249
+        },
+        "Second Closest": {
+            "ID": "4823    70203726",
+            "Words": "4823    python typeerror join argument must str bytes ...",
+            "isValid": false,
+            "Similarity": 0.766600489616394
+        }
+    },
+    "15": {
+        "Test Input": "Error: unsupported operand type(s) for >>: 'list' and 'list' in airflow DAG. Tasks are executed\u00a0in a sequential and parallel manner.",
+        "The Closest": {
+            "ID": "6551    62895219",
+            "Words": "6551    getting error airflow dag unsupported operand ...",
+            "isValid": true,
+            "Similarity": 0.7445937991142273
+        },
+        "Second Closest": {
+            "ID": "21427    58226787",
+            "Words": "21427    nonetype error lambda layer applying mask tensor",
+            "isValid": true,
+            "Similarity": 0.5823860168457031
+        }
+    },
+    "16": {
+        "Test Input": "SOLVED Error Fixing: \"InvalidArgumentError: All inputs must match\u00a0the same shape: values[0]. shape = [16] != values[1].shape = [64]",
+        "The Closest": {
+            "ID": "6552    69193435",
+            "Words": "6552    solved fixing error invalidargumenterror shape...",
+            "isValid": true,
+            "Similarity": 0.7257598042488098
+        },
+        "Second Closest": {
+            "ID": "1377    71669714",
+            "Words": "1377    solve valueerror x must size issue python",
+            "isValid": true,
+            "Similarity": 0.5124582648277283
+        }
+    },
+    "17": {
+        "Test Input": "ParserError: Data tokenization error. \u00a0C error:\u00a0 EOF inside string beginning at row 110994 1",
+        "The Closest": {
+            "ID": "10292    60345503",
+            "Words": "10292    pandas parsererror error tokenizing data c err...",
+            "isValid": true,
+            "Similarity": 0.7813647985458374
+        },
+        "Second Closest": {
+            "ID": "6553    69289201",
+            "Words": "6553    parsererror error tokenizing data c error eof ...",
+            "isValid": true,
+            "Similarity": 0.7792608737945557
+        }
+    },
+    "18": {
+        "Test Input": "View the image using the scroll bar, Canvas on Canvas. This error is thrown: 1 mandatory positional argument is missing from item configure (): 'tagOrId'",
+        "The Closest": {
+            "ID": "11702    66064239",
+            "Words": "11702    valueerror enough values unpack using discord api",
+            "isValid": false,
+            "Similarity": 0.6602898836135864
+        },
+        "Second Closest": {
+            "ID": "1946    71518305",
+            "Words": "1946    catch keyerror execute rest code keyerror equa...",
+            "isValid": false,
+            "Similarity": 0.6297445893287659
+        }
+    },
+    "19": {
+        "Test Input": "I keep getting an error when I try to remove \\n\u00a0from my list",
+        "The Closest": {
+            "ID": "19937    59672111",
+            "Words": "19937    error trying bank withdraw simulator python",
+            "isValid": false,
+            "Similarity": 0.9444689750671387
+        },
+        "Second Closest": {
+            "ID": "6555    69289718",
+            "Words": "6555    trying remove n list keeps coming error",
+            "isValid": false,
+            "Similarity": 0.9401170015335083
+        }
+    },
+    "20": {
+        "Test Input": "After generating a dataframe from a list of dictionaries, TypeError: no numeric data to plot",
+        "The Closest": {
+            "ID": "21531    58270727",
+            "Words": "21531    using pandas dataframe process list data get l...",
+            "isValid": false,
+            "Similarity": 0.6180441379547119
+        },
+        "Second Closest": {
+            "ID": "1240    71712624",
+            "Words": "1240    issue typeerror looping columns list data frames",
+            "isValid": false,
+            "Similarity": 0.6085491180419922
+        }
+    },
+    "21": {
+        "Test Input": "Keras: AttributeError: The 'Sequential' object does not have the '_nested inputs' attribute",
+        "The Closest": {
+            "ID": "18147    30344237",
+            "Words": "18147    error sqlite datetime type accepts python date...",
+            "isValid": false,
+            "Similarity": 0.6152249574661255
+        },
+        "Second Closest": {
+            "ID": "14372    64169280",
+            "Words": "14372    unboundlocalerror local variable input referen...",
+            "isValid": false,
+            "Similarity": 0.6092061996459961
+        }
+    },
+    "22": {
+        "Test Input": "NameError: name 'tk' is not defined in Python tkinter",
+        "The Closest": {
+            "ID": "14806    63752315",
+            "Words": "14806    nameerror name regc defined tkinter",
+            "isValid": true,
+            "Similarity": 0.961429238319397
+        },
+        "Second Closest": {
+            "ID": "18517    60913021",
+            "Words": "18517    __file__ maya defined nameerror",
+            "isValid": true,
+            "Similarity": 0.9501810073852539
+        }
+    },
+    "23": {
+        "Test Input": "When using pygooglenews, there is an Attribute error: the 'list' object has no attribute 'strftime'",
+        "The Closest": {
+            "ID": "6559    69278727",
+            "Words": "6559    attribute error list object attribute strftime...",
+            "isValid": false,
+            "Similarity": 0.7797874212265015
+        },
+        "Second Closest": {
+            "ID": "19581    59399844",
+            "Words": "19581    attribute error function object attribute data...",
+            "isValid": false,
+            "Similarity": 0.7641593813896179
+        }
+    },
+    "24": {
+        "Test Input": "requests.exceptions. When my Python script discovers an offline website, it throws a ConnectionError: HTTPConnectionPool error",
+        "The Closest": {
+            "ID": "6560    69192590",
+            "Words": "6560    requests exceptions connectionerror httpconnec...",
+            "isValid": true,
+            "Similarity": 0.7292383909225464
+        },
+        "Second Closest": {
+            "ID": "24943    54686922",
+            "Words": "24943    handle http error codes using crawlspider scrapy",
+            "isValid": true,
+            "Similarity": 0.6875101923942566
+        }
+    },
+    "25": {
+        "Test Input": "ValueError: When using keras to do regression for integer values that include negatives, no gradients are provided for any variable",
+        "The Closest": {
+            "ID": "6561    69160892",
+            "Words": "6561    valueerror gradients provided variable regress...",
+            "isValid": true,
+            "Similarity": 0.8450074195861816
+        },
+        "Second Closest": {
+            "ID": "19997    59599570",
+            "Words": "19997    sympy stats valueerror integer \u00e4\u00e3",
+            "isValid": true,
+            "Similarity": 0.8193063139915466
+        }
+    },
+    "26": {
+        "Test Input": "When importing classes from a jar, Jpype throws a ModuleNotFoundError",
+        "The Closest": {
+            "ID": "16237    62693773",
+            "Words": "16237    quantlib hestonmodelhelper class throwing error",
+            "isValid": false,
+            "Similarity": 0.799902081489563
+        },
+        "Second Closest": {
+            "ID": "8936    67835858",
+            "Words": "8936    implement djangomodelpermissions class based a...",
+            "isValid": false,
+            "Similarity": 0.7707251310348511
+        }
+    },
+    "27": {
+        "Test Input": "Unknown loss function in Keras custom loss error",
+        "The Closest": {
+            "ID": "23720    29971186",
+            "Words": "23720    python xlrd error formula tfunc unknown funcid...",
+            "isValid": false,
+            "Similarity": 0.9262491464614868
+        },
+        "Second Closest": {
+            "ID": "16339    62629877",
+            "Words": "16339    python elif statement showing syntaxerror inva...",
+            "isValid": false,
+            "Similarity": 0.9154146313667297
+        }
+    },
+    "28": {
+        "Test Input": "How to only run\u00a0a pytest fixture cleanup if the test fails or fails with an error",
+        "The Closest": {
+            "ID": "21518    57958722",
+            "Words": "21518    django python loaddata fails django db utils i...",
+            "isValid": false,
+            "Similarity": 0.8401421308517456
+        },
+        "Second Closest": {
+            "ID": "7860    26693736",
+            "Words": "7860    nltk stopwords fail lookuperror",
+            "isValid": false,
+            "Similarity": 0.8167992830276489
+        }
+    },
+    "29": {
+        "Test Input": "Although there is a replit error\u00a0with the google API, it works in Pycharm",
+        "The Closest": {
+            "ID": "6565    69279089",
+            "Words": "6565    replit error google api works pycharm",
+            "isValid": true,
+            "Similarity": 0.7689032554626465
+        },
+        "Second Closest": {
+            "ID": "574    39658864",
+            "Words": "574    pycharm error errno 13 permission denied",
+            "isValid": true,
+            "Similarity": 0.7597430944442749
+        }
+    },
+    "30": {
+        "Test Input": "jinja2.exceptions.UndefinedError:\u00a0 'function' is not\u00a0defined",
+        "The Closest": {
+            "ID": "15175    63490410",
+            "Words": "15175    julia undefvarerror unshift defined",
+            "isValid": false,
+            "Similarity": 0.8609616756439209
+        },
+        "Second Closest": {
+            "ID": "8232    62726786",
+            "Words": "8232    python tkinter error entryformartname defined",
+            "isValid": false,
+            "Similarity": 0.8466954827308655
+        }
+    },
+    "31": {
+        "Test Input": "An AttributeErrorr occurs when SQLAlchemy is installed with Poetry",
+        "The Closest": {
+            "ID": "15997    51802196",
+            "Words": "15997    nameerror name sqlalchemy defined despite inst...",
+            "isValid": false,
+            "Similarity": 0.6461767554283142
+        },
+        "Second Closest": {
+            "ID": "14766    59255882",
+            "Words": "14766    modulenotfounderror module named sqlalchemy co...",
+            "isValid": true,
+            "Similarity": 0.612284243106842
+        }
+    },
+    "32": {
+        "Test Input": "After a few successful Selenium Geckodriver tasks, the connection was refused (os error 111)\u00a0(Python)",
+        "The Closest": {
+            "ID": "6568    69247047",
+            "Words": "6568    connection refused os error 111 successful sel...",
+            "isValid": true,
+            "Similarity": 0.7769150733947754
+        },
+        "Second Closest": {
+            "ID": "13212    65058465",
+            "Words": "13212    fix selenium wrong permission error",
+            "isValid": true,
+            "Similarity": 0.6296223402023315
+        }
+    },
+    "33": {
+        "Test Input": "Is there any way to escape\u00a0the error and move on to the next word?",
+        "The Closest": {
+            "ID": "6569    69281452",
+            "Words": "6569    way escape error go next word",
+            "isValid": true,
+            "Similarity": 0.7776950597763062
+        },
+        "Second Closest": {
+            "ID": "20962    58771172",
+            "Words": "20962    xml parseerror letter",
+            "isValid": true,
+            "Similarity": 0.6784441471099854
+        }
+    },
+    "34": {
+        "Test Input": "How to remove items from a Python list that begin with a specific string without getting an AttributeError: The 'startswith' attribute is missing from the 'NoneType' object",
+        "The Closest": {
+            "ID": "24793    54819328",
+            "Words": "24793    appsink methods missing attributeerror gstapps...",
+            "isValid": false,
+            "Similarity": 0.5546057224273682
+        },
+        "Second Closest": {
+            "ID": "24238    55498566",
+            "Words": "24238    python regex attributeerror str object attribu...",
+            "isValid": false,
+            "Similarity": 0.5216107964515686
+        }
+    },
+    "35": {
+        "Test Input": "pycuda._driver.LogicError: cuModuleLoadDataEx given by pyCUDA with Flask",
+        "The Closest": {
+            "ID": "23110    56619559",
+            "Words": "23110    flask function take error argument",
+            "isValid": false,
+            "Similarity": 0.7051134705543518
+        },
+        "Second Closest": {
+            "ID": "23819    55831060",
+            "Words": "23819    flask permissionerror errno 13 permission denied",
+            "isValid": false,
+            "Similarity": 0.6587368249893188
+        }
+    },
+    "36": {
+        "Test Input": "When using Beautiful Soup to access ['style'], a KeyError occurs",
+        "The Closest": {
+            "ID": "6572    69246559",
+            "Words": "6572    keyerror trying access style using beautiful soup",
+            "isValid": true,
+            "Similarity": 0.8661574125289917
+        },
+        "Second Closest": {
+            "ID": "16950    62161359",
+            "Words": "16950    python appending dictionaries lists causes key...",
+            "isValid": true,
+            "Similarity": 0.8054519891738892
+        }
+    },
+    "37": {
+        "Test Input": "When using Flask, a PyCUDA context error happens",
+        "The Closest": {
+            "ID": "9754    67364865",
+            "Words": "9754    error handling best practice flask restapi",
+            "isValid": false,
+            "Similarity": 0.8254699110984802
+        },
+        "Second Closest": {
+            "ID": "23819    55831060",
+            "Words": "23819    flask permissionerror errno 13 permission denied",
+            "isValid": false,
+            "Similarity": 0.8231842517852783
+        }
+    },
+    "38": {
+        "Test Input": "Mercurial error *** failed to import extension hggit: hggit is not a module",
+        "The Closest": {
+            "ID": "22991    56721313",
+            "Words": "22991    importerror failed import pydot",
+            "isValid": false,
+            "Similarity": 0.8401342630386353
+        },
+        "Second Closest": {
+            "ID": "6574    5133641",
+            "Words": "6574    mercurial error failed import extension hggit ...",
+            "isValid": false,
+            "Similarity": 0.8271693587303162
+        }
+    },
+    "39": {
+        "Test Input": "The view leads.views.home_page did not return a HttpResponse object, resulting in a ValueError. Instead, it returned None how to fix a python django template error",
+        "The Closest": {
+            "ID": "6575    69280755",
+            "Words": "6575    valueerror view leads views home_page return h...",
+            "isValid": true,
+            "Similarity": 0.7493661642074585
+        },
+        "Second Closest": {
+            "ID": "9893    67293704",
+            "Words": "9893    valueerror view return httpresponse object ret...",
+            "isValid": true,
+            "Similarity": 0.6449440717697144
+        }
+    },
+    "40": {
+        "Test Input": "Windows 10 pip install dotenv error code 1",
+        "The Closest": {
+            "ID": "6576    49328525",
+            "Words": "6576    pip install dotenv error code 1 windows 10",
+            "isValid": true,
+            "Similarity": 0.9484830498695374
+        },
+        "Second Closest": {
+            "ID": "11020    66552328",
+            "Words": "11020    error somebody tell error code",
+            "isValid": true,
+            "Similarity": 0.9121130704879761
+        }
+    },
+    "41": {
+        "Test Input": "SQL Server Python ML Services FileNotFoundError",
+        "The Closest": {
+            "ID": "16707    62339790",
+            "Words": "16707    large dask pandas dataframe 27m rows x 52 colu...",
+            "isValid": true,
+            "Similarity": 0.9225427508354187
+        },
+        "Second Closest": {
+            "ID": "6577    64264659",
+            "Words": "6577    filenotfounderror sql server python ml services",
+            "isValid": true,
+            "Similarity": 0.9210039973258972
+        }
+    },
+    "42": {
+        "Test Input": "django gunicorn.errors.HaltServer: <HaltServer 'Worker ended in failure for booting.\u2019 3>",
+        "The Closest": {
+            "ID": "12455    65625754",
+            "Words": "12455    __init__ got unexpected keyword argument statu...",
+            "isValid": false,
+            "Similarity": 0.6802958250045776
+        },
+        "Second Closest": {
+            "ID": "2086    65761250",
+            "Words": "2086    pylint django raising error django configured ...",
+            "isValid": false,
+            "Similarity": 0.6734758615493774
+        }
+    },
+    "43": {
+        "Test Input": "When extracting month from date strings with single digit months, Pandas throws a ValueError: incorrect literal for int() with base 10: '1/'.",
+        "The Closest": {
+            "ID": "6579    69136415",
+            "Words": "6579    pandas valueerror invalid literal int base 10 ...",
+            "isValid": true,
+            "Similarity": 0.7554047107696533
+        },
+        "Second Closest": {
+            "ID": "22725    55398766",
+            "Words": "22725    python pycryptodome encryption throws cipherte...",
+            "isValid": true,
+            "Similarity": 0.7355098128318787
+        }
+    },
+    "44": {
+        "Test Input": "sklearn.model_selection.train_test_split",
+        "The Closest": {
+            "ID": "15781    63019107",
+            "Words": "15781    sklearn simpleimputer valueerror",
+            "isValid": true,
+            "Similarity": 0.9374634027481079
+        },
+        "Second Closest": {
+            "ID": "22966    56738929",
+            "Words": "22966    nameerror name x defined sklearn",
+            "isValid": true,
+            "Similarity": 0.9309459924697876
+        }
+    },
+    "45": {
+        "Test Input": "of (Invalid arguments) from stratify method error",
+        "The Closest": {
+            "ID": "17971    61399543",
+            "Words": "17971    flask post form error method allowed",
+            "isValid": true,
+            "Similarity": 0.7556241154670715
+        },
+        "Second Closest": {
+            "ID": "10202    5713731",
+            "Words": "10202    error mean invalid elf header",
+            "isValid": true,
+            "Similarity": 0.7522186040878296
+        }
+    },
+    "46": {
+        "Test Input": "If my program receives three consecutive zeros, it should stop accepting input and produce an error message.\u00a0 I don't understand\u00a0how to put the condition into action",
+        "The Closest": {
+            "ID": "10085    67170940",
+            "Words": "10085    typeerror concatenate str int str using len in...",
+            "isValid": true,
+            "Similarity": 0.7439154982566833
+        },
+        "Second Closest": {
+            "ID": "6581    69273964",
+            "Words": "6581    want program stop taking input gets three cons...",
+            "isValid": true,
+            "Similarity": 0.7435398697853088
+        }
+    },
+    "47": {
+        "Test Input": "Remove a single quotation mark from each entry in the list in Python. AttributeError: The 'list' object does not have the 'split' attribute",
+        "The Closest": {
+            "ID": "6582    69273684",
+            "Words": "6582    python remove single quotation mark elements l...",
+            "isValid": true,
+            "Similarity": 0.8035551309585571
+        },
+        "Second Closest": {
+            "ID": "23534    38853644",
+            "Words": "23534    python xml parseerror junk document element",
+            "isValid": true,
+            "Similarity": 0.6928795576095581
+        }
+    },
+    "48": {
+        "Test Input": "\"Got a KeyError on serializer AssetSerializer when trying to acquire a value for field devUserId. 'devUserId' was the original exception text",
+        "The Closest": {
+            "ID": "6583    69273013",
+            "Words": "6583    got keyerror attempting get value field devuse...",
+            "isValid": true,
+            "Similarity": 0.7614740133285522
+        },
+        "Second Closest": {
+            "ID": "8360    68242422",
+            "Words": "8360    django exception keyerror data runs",
+            "isValid": true,
+            "Similarity": 0.6014655828475952
+        }
+    },
+    "49": {
+        "Test Input": "Due to a TypeError, Pandas groupby\u00a0cannot concatenate strings",
+        "The Closest": {
+            "ID": "23178    56365925",
+            "Words": "23178    dask concatenate causes memory error pandas co...",
+            "isValid": false,
+            "Similarity": 0.6952152848243713
+        },
+        "Second Closest": {
+            "ID": "12090    65823140",
+            "Words": "12090    unable create histogram slice due datetime dat...",
+            "isValid": false,
+            "Similarity": 0.6344830989837646
+        }
+    },
+    "50": {
+        "Test Input": "ImportError: The name 'ImageTK' cannot be imported",
+        "The Closest": {
+            "ID": "20193    59502892",
+            "Words": "20193    importerror import name scan_videos subliminal",
+            "isValid": true,
+            "Similarity": 0.9704753160476685
+        },
+        "Second Closest": {
+            "ID": "6466    63034652",
+            "Words": "6466    gtts module error importerror import name gtts",
+            "isValid": true,
+            "Similarity": 0.9693431854248047
+        }
+    },
+    "51": {
+        "Test Input": "python error: no name in the provided module (flask)",
+        "The Closest": {
+            "ID": "22115    57584476",
+            "Words": "22115    typeerror string indices must integers flask",
+            "isValid": false,
+            "Similarity": 0.7064815759658813
+        },
+        "Second Closest": {
+            "ID": "13221    65030358",
+            "Words": "13221    flask python modulenotfounderror module named ...",
+            "isValid": false,
+            "Similarity": 0.6761001348495483
+        }
+    },
+    "52": {
+        "Test Input": "After overriding the __add__ method, a TypeError occurs",
+        "The Closest": {
+            "ID": "6010    69598607",
+            "Words": "6010    tkinter typeerror method",
+            "isValid": true,
+            "Similarity": 0.6730600595474243
+        },
+        "Second Closest": {
+            "ID": "4973    70127446",
+            "Words": "4973    django typeerror object type method len",
+            "isValid": true,
+            "Similarity": 0.6508822441101074
+        }
+    },
+    "53": {
+        "Test Input": "my OneToOneField relationship has a ValueError: Cannot assign User",
+        "The Closest": {
+            "ID": "6588    29700001",
+            "Words": "6588    valueerror assign user issue onetoonefield rel...",
+            "isValid": true,
+            "Similarity": 0.820605993270874
+        },
+        "Second Closest": {
+            "ID": "18691    60780434",
+            "Words": "18691    valueerror post new assign simplelazyobject us...",
+            "isValid": true,
+            "Similarity": 0.7221261262893677
+        }
+    },
+    "54": {
+        "Test Input": "OperationalError in psycopg2",
+        "The Closest": {
+            "ID": "14572    63897992",
+            "Words": "14572    remove bad magic number error pyinstaller",
+            "isValid": false,
+            "Similarity": 0.3089204430580139
+        },
+        "Second Closest": {
+            "ID": "2006    56960081",
+            "Words": "2006    python 3 7 error sending file python socket",
+            "isValid": false,
+            "Similarity": 0.2923199534416199
+        }
+    },
+    "55": {
+        "Test Input": "mistake when converting a matrix from a text file to a numpy matrix",
+        "The Closest": {
+            "ID": "6590    69276868",
+            "Words": "6590    error converting matrix txt file matrix numpy ...",
+            "isValid": true,
+            "Similarity": 0.6857035160064697
+        },
+        "Second Closest": {
+            "ID": "6444    69329554",
+            "Words": "6444    mac vscode converting python file pdf error",
+            "isValid": true,
+            "Similarity": 0.6281592845916748
+        }
+    },
+    "56": {
+        "Test Input": "trying to run the module, but getting a syntax error",
+        "The Closest": {
+            "ID": "2156    71461106",
+            "Words": "2156    syntax error trying install agentpy",
+            "isValid": true,
+            "Similarity": 0.6360107064247131
+        },
+        "Second Closest": {
+            "ID": "6591    69276828",
+            "Words": "6591    trying run module syntax error pops",
+            "isValid": true,
+            "Similarity": 0.6179313659667969
+        }
+    },
+    "57": {
+        "Test Input": "FileNotFoundError: [Errno 2] in Python/Docker There isn't a file or directory with that name:",
+        "The Closest": {
+            "ID": "22410    57266326",
+            "Words": "22410    name error global name class name defined class",
+            "isValid": false,
+            "Similarity": 0.7417329549789429
+        },
+        "Second Closest": {
+            "ID": "13400    64897865",
+            "Words": "13400    typeerror find_element_by_name missing 1 requi...",
+            "isValid": false,
+            "Similarity": 0.7416567802429199
+        }
+    },
+    "58": {
+        "Test Input": "error while compiling pip: AttributeError: The 'ParsedRequirement' object does not have the 'editable' attribute",
+        "The Closest": {
+            "ID": "6593    69200144",
+            "Words": "6593    pip compile error attributeerror parsedrequire...",
+            "isValid": true,
+            "Similarity": 0.7921478152275085
+        },
+        "Second Closest": {
+            "ID": "19770    58386140",
+            "Words": "19770    attributeerror module pip _internal download a...",
+            "isValid": true,
+            "Similarity": 0.7055050730705261
+        }
+    },
+    "59": {
+        "Test Input": "Django - AttributeError: 'int' object has no attribute 'pk'",
+        "The Closest": {
+            "ID": "6594    69275406",
+            "Words": "6594    attributeerror int object attribute pk django",
+            "isValid": true,
+            "Similarity": 0.719491183757782
+        },
+        "Second Closest": {
+            "ID": "4493    70152597",
+            "Words": "4493    django 4 0rc1 django taggit typeerror get_extr...",
+            "isValid": true,
+            "Similarity": 0.6625767350196838
+        }
+    },
+    "60": {
+        "Test Input": "How do I fix this problem\u00a0\"AttributeError: No attribute 'gethostname' in module 'socket'\"",
+        "The Closest": {
+            "ID": "14360    64128983",
+            "Words": "14360    fix 301 error using python sockets",
+            "isValid": true,
+            "Similarity": 0.6755110025405884
+        },
+        "Second Closest": {
+            "ID": "1544    71626452",
+            "Words": "1544    cant seem fix error vscode closed",
+            "isValid": true,
+            "Similarity": 0.6528279781341553
+        }
+    },
+    "61": {
+        "Test Input": "How can I fix the Error\u00a0DetailView is lacking a QuerySet?",
+        "The Closest": {
+            "ID": "17277    61923616",
+            "Words": "17277    fixing error django rest framework model seria...",
+            "isValid": false,
+            "Similarity": 0.7456151247024536
+        },
+        "Second Closest": {
+            "ID": "15092    63542324",
+            "Words": "15092    django fixing error payment view",
+            "isValid": false,
+            "Similarity": 0.7252715229988098
+        }
+    },
+    "62": {
+        "Test Input": "NameError: 'WebDriverWait' is not a valid name",
+        "The Closest": {
+            "ID": "16578    62448541",
+            "Words": "16578    python strange nameerror def",
+            "isValid": false,
+            "Similarity": 0.6887518167495728
+        },
+        "Second Closest": {
+            "ID": "22627    57034784",
+            "Words": "22627    nameerror python errors code exist anymore",
+            "isValid": false,
+            "Similarity": 0.6703998446464539
+        }
+    },
+    "63": {
+        "Test Input": "Error binding parameter 1 - presumably invalid type sqlite3.InterfaceError",
+        "The Closest": {
+            "ID": "4909    70159694",
+            "Words": "4909    python sqlalchemy invalid sql data type error",
+            "isValid": true,
+            "Similarity": 0.8179370164871216
+        },
+        "Second Closest": {
+            "ID": "15789    62956002",
+            "Words": "15789    marsmhallow validationerror _schema invalid in...",
+            "isValid": true,
+            "Similarity": 0.7274634838104248
+        }
+    },
+    "64": {
+        "Test Input": "How can I import a favicon from the react build folder into a Django server? error\u00a0manifest.json could not be found",
+        "The Closest": {
+            "ID": "6599    69056206",
+            "Words": "6599    load favicon django server react build folder ...",
+            "isValid": true,
+            "Similarity": 0.7785481214523315
+        },
+        "Second Closest": {
+            "ID": "727    71710622",
+            "Words": "727    filenotfounderror errno 2 service_account py j...",
+            "isValid": true,
+            "Similarity": 0.7000120878219604
+        }
+    },
+    "65": {
+        "Test Input": "python manage.py runserver - strange error (Exception in thread django-main-thread)",
+        "The Closest": {
+            "ID": "6600    62269035",
+            "Words": "6600    weird error python manage py runserver excepti...",
+            "isValid": true,
+            "Similarity": 0.7938586473464966
+        },
+        "Second Closest": {
+            "ID": "23301    38433029",
+            "Words": "23301    wrapped error setup_databases pytest django",
+            "isValid": true,
+            "Similarity": 0.7443258762359619
+        }
+    },
+    "66": {
+        "Test Input": "how to proceed: TextIOWrapper is not a valid JSON object; it must be str, bytes, or bytearray",
+        "The Closest": {
+            "ID": "23405    56279495",
+            "Words": "23405    typeerror json object must str detailedresponse",
+            "isValid": true,
+            "Similarity": 0.7044539451599121
+        },
+        "Second Closest": {
+            "ID": "3218    57483853",
+            "Words": "3218    json schema validation failing error type object",
+            "isValid": true,
+            "Similarity": 0.6254466772079468
+        }
+    },
+    "67": {
+        "Test Input": "Why am I getting an error that the 'str' objet is not callable?",
+        "The Closest": {
+            "ID": "23439    56262753",
+            "Words": "23439    getting typeerror staticmethid callable",
+            "isValid": true,
+            "Similarity": 0.9127258062362671
+        },
+        "Second Closest": {
+            "ID": "16208    62721536",
+            "Words": "16208    typeerror str object callable oop",
+            "isValid": true,
+            "Similarity": 0.9005758762359619
+        }
+    },
+    "68": {
+        "Test Input": "ImportError: 'setuptools.build meta' is not a module",
+        "The Closest": {
+            "ID": "17307    49295992",
+            "Words": "17307    importerror module python setup py install",
+            "isValid": false,
+            "Similarity": 0.6681222915649414
+        },
+        "Second Closest": {
+            "ID": "23479    41857474",
+            "Words": "23479    travis build importerror module named gdal",
+            "isValid": true,
+            "Similarity": 0.6428963541984558
+        }
+    },
+    "69": {
+        "Test Input": "How can I solve the 'NoneType' object having no attribute 'strip' Attribute Error",
+        "The Closest": {
+            "ID": "24108    55273067",
+            "Words": "24108    solve error attributeerror nonetype object att...",
+            "isValid": true,
+            "Similarity": 0.8699980974197388
+        },
+        "Second Closest": {
+            "ID": "2422    66724687",
+            "Words": "2422    discord py solve error toomanyrequests",
+            "isValid": true,
+            "Similarity": 0.8281238675117493
+        }
+    },
+    "70": {
+        "Test Input": "Python 3.6.9 has an import problem from the parent directory",
+        "The Closest": {
+            "ID": "6605    69270416",
+            "Words": "6605    import error parent directory python 3 6 9",
+            "isValid": false,
+            "Similarity": 0.6881918907165527
+        },
+        "Second Closest": {
+            "ID": "6887    69107873",
+            "Words": "6887    python modulenotfounderror importing another d...",
+            "isValid": false,
+            "Similarity": 0.6648730039596558
+        }
+    },
+    "71": {
+        "Test Input": "Having an excessive number of uwsgi OSError messages",
+        "The Closest": {
+            "ID": "11661    66089719",
+            "Words": "11661    subprocess permission file directory error mes...",
+            "isValid": true,
+            "Similarity": 0.5639607906341553
+        },
+        "Second Closest": {
+            "ID": "6606    64005731",
+            "Words": "6606    many uwsgi oserror messages",
+            "isValid": true,
+            "Similarity": 0.5630237460136414
+        }
+    },
+    "72": {
+        "Test Input": "uwsgi: OSError: write problem while GET request",
+        "The Closest": {
+            "ID": "6607    59026602",
+            "Words": "6607    uwsgi oserror write error get request",
+            "isValid": true,
+            "Similarity": 0.8630083799362183
+        },
+        "Second Closest": {
+            "ID": "212    57672038",
+            "Words": "212    getting connection aborted oserror 0 error err...",
+            "isValid": true,
+            "Similarity": 0.7562049627304077
+        }
+    },
+    "73": {
+        "Test Input": "Error in Python Web Scraping with No Warning",
+        "The Closest": {
+            "ID": "15995    52738220",
+            "Words": "15995    discord bot python 3 6 error importing commands",
+            "isValid": false,
+            "Similarity": 0.902438223361969
+        },
+        "Second Closest": {
+            "ID": "16146    62767786",
+            "Words": "16146    minimize error optimization approach similarly...",
+            "isValid": false,
+            "Similarity": 0.902205228805542
+        }
+    },
+    "74": {
+        "Test Input": "There is no attribute 'contrib' in the module \u00a0'tensorflow_core.compat.v1' AttributeError",
+        "The Closest": {
+            "ID": "3146    67458050",
+            "Words": "3146    attributeerror module mnist attribute train_im...",
+            "isValid": true,
+            "Similarity": 0.9156591892242432
+        },
+        "Second Closest": {
+            "ID": "6762    69176192",
+            "Words": "6762    attributeerror seq object attribute islower pr...",
+            "isValid": true,
+            "Similarity": 0.8907809257507324
+        }
+    },
+    "75": {
+        "Test Input": "No module called <appname>.url exists ModuleError",
+        "The Closest": {
+            "ID": "18064    43080583",
+            "Words": "18064    attributeerror assign module module __init__ call",
+            "isValid": false,
+            "Similarity": 0.6039804816246033
+        },
+        "Second Closest": {
+            "ID": "13619    64709399",
+            "Words": "13619    modulenotfounderror module named mysite try ca...",
+            "isValid": false,
+            "Similarity": 0.5969595909118652
+        }
+    },
+    "76": {
+        "Test Input": "When I try to extract only two substrings from a regex pattern, I get ValueError: too many values to unpack (expected 2)",
+        "The Closest": {
+            "ID": "6611    69263201",
+            "Words": "6611    valueerror many values unpack expected 2 try e...",
+            "isValid": true,
+            "Similarity": 0.6731818914413452
+        },
+        "Second Closest": {
+            "ID": "5525    69845992",
+            "Words": "5525    date pattern whatsapp chat text file 24 hour f...",
+            "isValid": true,
+            "Similarity": 0.6486982107162476
+        }
+    },
+    "77": {
+        "Test Input": "Flask sqlalchemy is what I want to utilize. I\u00a0however\u00a0get a ModuleNotFoundError",
+        "The Closest": {
+            "ID": "2619    11313935",
+            "Words": "2619    trying catch integrity error sqlalchemy",
+            "isValid": false,
+            "Similarity": 0.6372033357620239
+        },
+        "Second Closest": {
+            "ID": "8934    67883315",
+            "Words": "8934    trying setup mysql ubuntu django getting error...",
+            "isValid": false,
+            "Similarity": 0.6152818202972412
+        }
+    },
+    "78": {
+        "Test Input": "usage\u00a0of self.master.master. Is excessively a sign of a program structural error?",
+        "The Closest": {
+            "ID": "9705    67395534",
+            "Words": "9705    nameerror name bitearray defined",
+            "isValid": false,
+            "Similarity": 0.9070920944213867
+        },
+        "Second Closest": {
+            "ID": "18454    60985414",
+            "Words": "18454    python synatx error string format correct",
+            "isValid": false,
+            "Similarity": 0.906662106513977
+        }
+    },
+    "79": {
+        "Test Input": "TypeError: object AccessToken can't be used in 'await' expression in python async upload_blob",
+        "The Closest": {
+            "ID": "15077    61876801",
+            "Words": "15077    codeacademy syntaxerror return outside function",
+            "isValid": true,
+            "Similarity": 0.7514578700065613
+        },
+        "Second Closest": {
+            "ID": "7058    68996231",
+            "Words": "7058    discord py typeerror object lock used await ex...",
+            "isValid": true,
+            "Similarity": 0.7431027889251709
+        }
+    },
+    "80": {
+        "Test Input": "When combining two df in pandas, ValueError: Shape of passed values is (6, 6), indices indicate (4, 6) error",
+        "The Closest": {
+            "ID": "22878    40560165",
+            "Words": "22878    strange errro valueerror shape passed values 7...",
+            "isValid": false,
+            "Similarity": 0.6902309656143188
+        },
+        "Second Closest": {
+            "ID": "18696    60747603",
+            "Words": "18696    pandas join value error shape passed value inc...",
+            "isValid": true,
+            "Similarity": 0.6592617034912109
+        }
+    },
+    "81": {
+        "Test Input": "How can I fix the TypeError: string indices must be integers in my code?",
+        "The Closest": {
+            "ID": "20680    59025748",
+            "Words": "20680    fix unboundlocalerror local variable dc refere...",
+            "isValid": false,
+            "Similarity": 0.8163495659828186
+        },
+        "Second Closest": {
+            "ID": "19794    59782597",
+            "Words": "19794    fix error python code",
+            "isValid": false,
+            "Similarity": 0.8136138916015625
+        }
+    },
+    "82": {
+        "Test Input": "pandas to_datetime has a KeyError",
+        "The Closest": {
+            "ID": "16904    44085633",
+            "Words": "16904    pandas hashtable keyerror",
+            "isValid": true,
+            "Similarity": 0.915354311466217
+        },
+        "Second Closest": {
+            "ID": "10160    67130355",
+            "Words": "10160    keyerror using loc pandas",
+            "isValid": true,
+            "Similarity": 0.909906804561615
+        }
+    },
+    "83": {
+        "Test Input": "(2003, \"Did not connect to MySQL server on rds.amazonaws.com (110)\") Amazon RDS: OperationalError",
+        "The Closest": {
+            "ID": "6618    69216074",
+            "Words": "6618    amazon rds operationalerror 2003 connect mysql...",
+            "isValid": true,
+            "Similarity": 0.8907294273376465
+        },
+        "Second Closest": {
+            "ID": "7354    12705249",
+            "Words": "7354    error connecting outlook via com",
+            "isValid": true,
+            "Similarity": 0.8706626892089844
+        }
+    },
+    "84": {
+        "Test Input": "Flask(__name__) = app The 'module' object is not callable, which causes a TypeError",
+        "The Closest": {
+            "ID": "24303    55367095",
+            "Words": "24303    subscriptable error trying subscript",
+            "isValid": true,
+            "Similarity": 0.7299813032150269
+        },
+        "Second Closest": {
+            "ID": "11392    66251810",
+            "Words": "11392    undestand cause dict object callable error",
+            "isValid": true,
+            "Similarity": 0.7279607653617859
+        }
+    },
+    "85": {
+        "Test Input": "Celery NoneType Error in Pytest, Flask, and Celery",
+        "The Closest": {
+            "ID": "6620    69246153",
+            "Words": "6620    pytest flask celery celery nonetype error",
+            "isValid": true,
+            "Similarity": 0.8366791009902954
+        },
+        "Second Closest": {
+            "ID": "7481    68747433",
+            "Words": "7481    attributeerror nonetype object attribute email...",
+            "isValid": true,
+            "Similarity": 0.6714779138565063
+        }
+    },
+    "86": {
+        "Test Input": "Module 'datetime' has no attribute 'today' | datetime | AttributeError",
+        "The Closest": {
+            "ID": "22482    5206416",
+            "Words": "22482    python module import error",
+            "isValid": true,
+            "Similarity": 0.855917751789093
+        },
+        "Second Closest": {
+            "ID": "11709    66061516",
+            "Words": "11709    modulenotfounderror module named cuneiform",
+            "isValid": true,
+            "Similarity": 0.8559167981147766
+        }
+    },
+    "87": {
+        "Test Input": "Is there a reason that in Python, something like 'list[]' raises a 'SyntaxError'?",
+        "The Closest": {
+            "ID": "6622    69257910",
+            "Words": "6622    reason something like list raises syntaxerror ...",
+            "isValid": true,
+            "Similarity": 0.8818911910057068
+        },
+        "Second Closest": {
+            "ID": "23246    56421009",
+            "Words": "23246    python 2 7 syntax error newlines characters wi...",
+            "isValid": true,
+            "Similarity": 0.5494354963302612
+        }
+    },
+    "88": {
+        "Test Input": "In Jupyter Notebook an error occurred when performing Gaussian Naive Bayes",
+        "The Closest": {
+            "ID": "19327    60189167",
+            "Words": "19327    scipy optimize error trying put function minimize",
+            "isValid": false,
+            "Similarity": 0.7564429044723511
+        },
+        "Second Closest": {
+            "ID": "22390    57267446",
+            "Words": "22390    error trying solve ode using scipy",
+            "isValid": false,
+            "Similarity": 0.7405973672866821
+        }
+    },
+    "89": {
+        "Test Input": "TypeError: 'int' object is not callable, giving same names to different variables?",
+        "The Closest": {
+            "ID": "23173    56498570",
+            "Words": "23173    python import specific variable file without g...",
+            "isValid": true,
+            "Similarity": 0.565110445022583
+        },
+        "Second Closest": {
+            "ID": "12074    65864805",
+            "Words": "12074    python giving error trying mod two variables",
+            "isValid": true,
+            "Similarity": 0.5517362952232361
+        }
+    },
+    "90": {
+        "Test Input": "When I use a dictionary to translate numbers written in Spanish words to numeric characters, I get a KeyError: 'y'. What should I do to solve?",
+        "The Closest": {
+            "ID": "6624    69257979",
+            "Words": "6624    use dictionary convert numbers written spanish...",
+            "isValid": true,
+            "Similarity": 0.7486050128936768
+        },
+        "Second Closest": {
+            "ID": "10289    67039337",
+            "Words": "10289    error keyerror date insists csv file utf 8 enc...",
+            "isValid": true,
+            "Similarity": 0.5742642879486084
+        }
+    },
+    "91": {
+        "Test Input": "Pyspark Py4JJavaError: While attempting to use IDF, an error occurred while calling o401.fit",
+        "The Closest": {
+            "ID": "6625    69260277",
+            "Words": "6625    pyspark py4jjavaerror error occurred calling o...",
+            "isValid": false,
+            "Similarity": 0.6471978425979614
+        },
+        "Second Closest": {
+            "ID": "8120    68375872",
+            "Words": "8120    numpy float64 object callable error using scip...",
+            "isValid": true,
+            "Similarity": 0.6348328590393066
+        }
+    },
+    "92": {
+        "Test Input": "During the installation of eventlet, the command 'gcc' failed with exit status 1",
+        "The Closest": {
+            "ID": "6384    69378698",
+            "Words": "6384    unsatisfiableerror installing miniconda",
+            "isValid": false,
+            "Similarity": 0.925796389579773
+        },
+        "Second Closest": {
+            "ID": "21875    57869485",
+            "Words": "21875    linux modulenotfounderror installing python mo...",
+            "isValid": false,
+            "Similarity": 0.9141732454299927
+        }
+    },
+    "93": {
+        "Test Input": "When using the Python client for the Google service account file cache, \"ImportError: file cache is unavailable\"",
+        "The Closest": {
+            "ID": "16559    60327737",
+            "Words": "16559    brokenpipeerror sqlalchemy cloud sql app engin...",
+            "isValid": false,
+            "Similarity": 0.6483999490737915
+        },
+        "Second Closest": {
+            "ID": "16739    60120394",
+            "Words": "16739    sqlalchemy pg8000 keyerror broken pipe google ...",
+            "isValid": false,
+            "Similarity": 0.6421421766281128
+        }
+    },
+    "94": {
+        "Test Input": "Why do I get the message \"NameError: global name 'climbStairs' is not defined\" in leetcode? but operates\u00a0without the words'self' and 'object'?",
+        "The Closest": {
+            "ID": "24032    55681327",
+            "Words": "24032    call function another code file without gettin...",
+            "isValid": false,
+            "Similarity": 0.5074677467346191
+        },
+        "Second Closest": {
+            "ID": "10350    66993387",
+            "Words": "10350    use lazy formatting logging functions pylint e...",
+            "isValid": false,
+            "Similarity": 0.4667513072490692
+        }
+    },
+    "95": {
+        "Test Input": "sqlalchemy.exc.InvalidRequestError:\u00a0 Mapper without property",
+        "The Closest": {
+            "ID": "5074    70081971",
+            "Words": "5074    syntactic error print class properties",
+            "isValid": false,
+            "Similarity": 0.6445651650428772
+        },
+        "Second Closest": {
+            "ID": "13156    65102698",
+            "Words": "13156    sqlalchemy exc invalidrequesterror mapper mapp...",
+            "isValid": false,
+            "Similarity": 0.607295572757721
+        }
+    },
+    "96": {
+        "Test Input": "django.db.utils.OperationalError: 1005, 'Table `xyz` cannot be created.`#sql-600_237` (errno: 150 \"Foreign key constraint is not formed correctly\")",
+        "The Closest": {
+            "ID": "6630    40429617",
+            "Words": "6630    django db utils operationalerror 1005 create t...",
+            "isValid": false,
+            "Similarity": 0.8298812508583069
+        },
+        "Second Closest": {
+            "ID": "20632    59073954",
+            "Words": "20632    django migrating foreign keys django db utils ...",
+            "isValid": true,
+            "Similarity": 0.680905818939209
+        }
+    },
+    "97": {
+        "Test Input": "MissingSectionHeaderError: There are no section headers in the file (configparser)",
+        "The Closest": {
+            "ID": "23070    56606770",
+            "Words": "23070    errors decode protobuf file python\u00f4\u00ba\u00e5error \u00e4\u00f2g...",
+            "isValid": false,
+            "Similarity": 0.6477157473564148
+        },
+        "Second Closest": {
+            "ID": "2105    71476991",
+            "Words": "2105    unable import json file spyder python jsondeco...",
+            "isValid": false,
+            "Similarity": 0.6468682289123535
+        }
+    },
+    "98": {
+        "Test Input": "When the server stops the connection, Firefox displays a connection reset error",
+        "The Closest": {
+            "ID": "21511    25758936",
+            "Words": "21511    pyqt5 clicked connect working errors",
+            "isValid": false,
+            "Similarity": 0.7407072186470032
+        },
+        "Second Closest": {
+            "ID": "15197    34259004",
+            "Words": "15197    flask mail error smtpserverdisconnected please...",
+            "isValid": false,
+            "Similarity": 0.6364971995353699
+        }
+    },
+    "99": {
+        "Test Input": "While using np.random.randint(), numba.core.errors.TypingError occurred",
+        "The Closest": {
+            "ID": "6633    69251392",
+            "Words": "6633    numba core errors typingerror using np random ...",
+            "isValid": true,
+            "Similarity": 0.7796506881713867
+        },
+        "Second Closest": {
+            "ID": "13922    64527098",
+            "Words": "13922    numpy linalg linalgerror singular matrix error...",
+            "isValid": true,
+            "Similarity": 0.7117058634757996
+        }
+    },
+    "100": {
+        "Test Input": "Python No module named myModule",
+        "The Closest": {
+            "ID": "18535    60913141",
+            "Words": "18535    module named whaaaaat modulenotfounderror",
+            "isValid": true,
+            "Similarity": 0.9624686241149902
+        },
+        "Second Closest": {
+            "ID": "15472    49095019",
+            "Words": "15472    modulenotfounderror module named flask_wtforms",
+            "isValid": true,
+            "Similarity": 0.9564346671104431
+        }
+    },
+    "101": {
+        "Test Input": "Getting TypeError: 'value' object cannot be interpreted as an integer Error",
+        "The Closest": {
+            "ID": "15950    62911418",
+            "Words": "15950    fix value error invalid literal int base 10",
+            "isValid": true,
+            "Similarity": 0.8451120853424072
+        },
+        "Second Closest": {
+            "ID": "20773    58928481",
+            "Words": "20773    getting error valueerror many values unpack ex...",
+            "isValid": true,
+            "Similarity": 0.8383052349090576
+        }
+    },
+    "102": {
+        "Test Input": "AttributeError: module 'vehicle' has no attribute 'gas_tank_volume'",
+        "The Closest": {
+            "ID": "5880    58376583",
+            "Words": "5880    attributeerror module camelot attribute read_pdf",
+            "isValid": true,
+            "Similarity": 0.9362508058547974
+        },
+        "Second Closest": {
+            "ID": "18928    54789280",
+            "Words": "18928    attributeerror object attribute",
+            "isValid": true,
+            "Similarity": 0.9360504746437073
+        }
+    },
+    "103": {
+        "Test Input": "OSError: [Errno 22] Invalid argument: 'downloads/project/jquery.js?v=1.4.3'",
+        "The Closest": {
+            "ID": "23723    55920129",
+            "Words": "23723    pretrained tensorflow model invalid argument e...",
+            "isValid": false,
+            "Similarity": 0.6322131156921387
+        },
+        "Second Closest": {
+            "ID": "16581    60470912",
+            "Words": "16581    huggin face conversational error error argumen...",
+            "isValid": false,
+            "Similarity": 0.6309022903442383
+        }
+    },
+    "104": {
+        "Test Input": "IndexError: list index out of range (my_list)[0]",
+        "The Closest": {
+            "ID": "20383    59291834",
+            "Words": "20383    unboundlocalerror local variable fullfilename ...",
+            "isValid": false,
+            "Similarity": 0.9813721179962158
+        },
+        "Second Closest": {
+            "ID": "5039    70097237",
+            "Words": "5039    indexerror list index range surdsk",
+            "isValid": true,
+            "Similarity": 0.9810437560081482
+        }
+    },
+    "105": {
+        "Test Input": "python GEKKO Solution Not Found",
+        "The Closest": {
+            "ID": "18648    60810551",
+            "Words": "18648    modulenotfounderror module found pycharm intel...",
+            "isValid": false,
+            "Similarity": 0.8854855895042419
+        },
+        "Second Closest": {
+            "ID": "3168    59068580",
+            "Words": "3168    cqlsh error root code hash md5 found",
+            "isValid": false,
+            "Similarity": 0.8742095232009888
+        }
+    },
+    "106": {
+        "Test Input": "NotADirectoryError in python",
+        "The Closest": {
+            "ID": "6360    69398299",
+            "Words": "6360    program read file returns dictionary returning...",
+            "isValid": true,
+            "Similarity": 0.35094285011291504
+        },
+        "Second Closest": {
+            "ID": "2553    71202070",
+            "Words": "2553    invalid bucket name error aws lambda tries cop...",
+            "isValid": true,
+            "Similarity": 0.3254163861274719
+        }
+    },
+    "107": {
+        "Test Input": "python openpyxl module font attribute gives AttributeError",
+        "The Closest": {
+            "ID": "19785    56089806",
+            "Words": "19785    attributeerror module object attribute open",
+            "isValid": false,
+            "Similarity": 0.6706294417381287
+        },
+        "Second Closest": {
+            "ID": "12613    65047340",
+            "Words": "12613    resetting board pygame giving attribute error",
+            "isValid": false,
+            "Similarity": 0.6585835218429565
+        }
+    },
+    "108": {
+        "Test Input": "PySpark: TypeError: 'Row' object is not callable : when using .contains",
+        "The Closest": {
+            "ID": "35    71985767",
+            "Words": "35    pyspark typeerror column object callable using...",
+            "isValid": true,
+            "Similarity": 0.8631449341773987
+        },
+        "Second Closest": {
+            "ID": "8355    53787663",
+            "Words": "8355    contains pyspark sql typeerror column object c...",
+            "isValid": true,
+            "Similarity": 0.6794220209121704
+        }
+    },
+    "109": {
+        "Test Input": "python NLTK LookupError (resource_not_found)",
+        "The Closest": {
+            "ID": "12347    65298391",
+            "Words": "12347    error using bert model tensorflow",
+            "isValid": false,
+            "Similarity": 0.930108904838562
+        },
+        "Second Closest": {
+            "ID": "24268    55459877",
+            "Words": "24268    python typeerror nonetype object subscriptable",
+            "isValid": false,
+            "Similarity": 0.9295019507408142
+        }
+    },
+    "110": {
+        "Test Input": "ValueError: Field 'age' expected a number but got 'name'",
+        "The Closest": {
+            "ID": "796    71816969",
+            "Words": "796    fix typeerror int object callable divided number",
+            "isValid": true,
+            "Similarity": 0.5784862041473389
+        },
+        "Second Closest": {
+            "ID": "7421    1101750",
+            "Words": "7421    tkinter attributeerror nonetype object attribu...",
+            "isValid": true,
+            "Similarity": 0.5167816877365112
+        }
+    },
+    "111": {
+        "Test Input": "AttributeError: 'list' object has no attribute 'map'",
+        "The Closest": {
+            "ID": "15982    62862895",
+            "Words": "15982    attributeerror map object attribute simple_mar...",
+            "isValid": true,
+            "Similarity": 0.8252831697463989
+        },
+        "Second Closest": {
+            "ID": "23478    56213580",
+            "Words": "23478    attributeerror list object attribute reset_index",
+            "isValid": true,
+            "Similarity": 0.7858235836029053
+        }
+    },
+    "112": {
+        "Test Input": "MacOS Big Sur NPM Error Can't find Python executable",
+        "The Closest": {
+            "ID": "269    70098133",
+            "Words": "269    npm error find python executable macos big sur",
+            "isValid": true,
+            "Similarity": 0.9008185267448425
+        },
+        "Second Closest": {
+            "ID": "17217    61986225",
+            "Words": "17217    os error find source python",
+            "isValid": true,
+            "Similarity": 0.7289299964904785
+        }
+    },
+    "113": {
+        "Test Input": "python solution to ValueError: could not convert string to float error",
+        "The Closest": {
+            "ID": "21542    58261373",
+            "Words": "21542    typeerror solutions",
+            "isValid": true,
+            "Similarity": 0.9215387105941772
+        },
+        "Second Closest": {
+            "ID": "20093    59567252",
+            "Words": "20093    nameerror class within class",
+            "isValid": true,
+            "Similarity": 0.9109763503074646
+        }
+    },
+    "114": {
+        "Test Input": "Python bottle Error: 413 Request Entity Too Large",
+        "The Closest": {
+            "ID": "272    16865997",
+            "Words": "272    python bottle module causes error 413 request ...",
+            "isValid": true,
+            "Similarity": 0.8603633046150208
+        },
+        "Second Closest": {
+            "ID": "11991    60563843",
+            "Words": "11991    large graph_from_place request osmnx leading t...",
+            "isValid": false,
+            "Similarity": 0.8358112573623657
+        }
+    },
+    "115": {
+        "Test Input": "xml to tfrecord file convertion gives an error",
+        "The Closest": {
+            "ID": "13561    64683076",
+            "Words": "13561    convert script executable file gives error mat...",
+            "isValid": true,
+            "Similarity": 0.7998989820480347
+        },
+        "Second Closest": {
+            "ID": "2754    71182069",
+            "Words": "2754    code convert gives error",
+            "isValid": true,
+            "Similarity": 0.754806637763977
+        }
+    },
+    "116": {
+        "Test Input": "kafka module pyspark ModuleNotFound",
+        "The Closest": {
+            "ID": "275    71955212",
+            "Words": "275    python kafka module used pyspark causes module...",
+            "isValid": true,
+            "Similarity": 0.7867971658706665
+        },
+        "Second Closest": {
+            "ID": "9760    67367559",
+            "Words": "9760    importerror module named kafka databricks pyspark",
+            "isValid": true,
+            "Similarity": 0.7803679704666138
+        }
+    },
+    "117": {
+        "Test Input": "python NameError: name 'value' is not defined",
+        "The Closest": {
+            "ID": "13739    64645361",
+            "Words": "13739    python valueerror value list",
+            "isValid": false,
+            "Similarity": 0.7916383147239685
+        },
+        "Second Closest": {
+            "ID": "8219    40794282",
+            "Words": "8219    value error python statsmodels tsa seasonal",
+            "isValid": false,
+            "Similarity": 0.7598438262939453
+        }
+    },
+    "118": {
+        "Test Input": "Python multiprocessing: TypeError: cannot pickle 'names' object",
+        "The Closest": {
+            "ID": "23003    54736710",
+            "Words": "23003    multiprocessing pool maybeencodingerror typeer...",
+            "isValid": true,
+            "Similarity": 0.7013943791389465
+        },
+        "Second Closest": {
+            "ID": "23668    56033824",
+            "Words": "23668    pymysql multiprocessing throw typeerror",
+            "isValid": true,
+            "Similarity": 0.6894360780715942
+        }
+    },
+    "119": {
+        "Test Input": "ValueError: 'students' must have either 2 or 3 dimensions",
+        "The Closest": {
+            "ID": "18387    61030800",
+            "Words": "18387    valueerror shapes 1 2 1 4 incompatible",
+            "isValid": false,
+            "Similarity": 0.8137476444244385
+        },
+        "Second Closest": {
+            "ID": "16206    62745831",
+            "Words": "16206    valueerror titanic pipeline",
+            "isValid": false,
+            "Similarity": 0.7943934202194214
+        }
+    },
+    "120": {
+        "Test Input": "AttributeError: 'int' object has no attribute 'user_id' project.py",
+        "The Closest": {
+            "ID": "9667    54567896",
+            "Words": "9667    redis py attributeerror int object attribute i...",
+            "isValid": true,
+            "Similarity": 0.7376042604446411
+        },
+        "Second Closest": {
+            "ID": "9828    42354363",
+            "Words": "9828    gcloud py attributeerror module enum attribute...",
+            "isValid": true,
+            "Similarity": 0.6686000227928162
+        }
+    },
+    "121": {
+        "Test Input": "pip ImportError: cannot import name 'appdirs'",
+        "The Closest": {
+            "ID": "24711    49166873",
+            "Words": "24711    pip python importerror import name _remove_dea...",
+            "isValid": true,
+            "Similarity": 0.7959859371185303
+        },
+        "Second Closest": {
+            "ID": "17634    61687409",
+            "Words": "17634    fastai pip generates error installing",
+            "isValid": true,
+            "Similarity": 0.7384282350540161
+        }
+    },
+    "122": {
+        "Test Input": "NameError: name 'exit' is not defined",
+        "The Closest": {
+            "ID": "6597    62625487",
+            "Words": "6597    nameerror name webdriverwait defined",
+            "isValid": true,
+            "Similarity": 0.8445695638656616
+        },
+        "Second Closest": {
+            "ID": "20826    24360277",
+            "Words": "20826    error python name defined",
+            "isValid": true,
+            "Similarity": 0.8402256965637207
+        }
+    },
+    "123": {
+        "Test Input": "RuntimeError: CUDA error: invalid device ordinal",
+        "The Closest": {
+            "ID": "488    64334033",
+            "Words": "488    solve runtimeerror cuda error invalid device o...",
+            "isValid": true,
+            "Similarity": 0.8888335227966309
+        },
+        "Second Closest": {
+            "ID": "13975    63582946",
+            "Words": "13975    invalid destination position blit error",
+            "isValid": true,
+            "Similarity": 0.7947970628738403
+        }
+    },
+    "124": {
+        "Test Input": "ModuleNotFoundError: No module named 'matplotlib' on mac OS",
+        "The Closest": {
+            "ID": "19261    60237307",
+            "Words": "19261    remove deprecation error sklearn python3",
+            "isValid": false,
+            "Similarity": 0.6188240051269531
+        },
+        "Second Closest": {
+            "ID": "16103    47872639",
+            "Words": "16103    matplotlib set_data xdata ydata must length error",
+            "isValid": false,
+            "Similarity": 0.6031025052070618
+        }
+    },
+    "125": {
+        "Test Input": "NameError: name 'istanbul' is not defined",
+        "The Closest": {
+            "ID": "12891    60532158",
+            "Words": "12891    nameerror name encrypted_message_key defined",
+            "isValid": true,
+            "Similarity": 0.9748280048370361
+        },
+        "Second Closest": {
+            "ID": "12964    62231028",
+            "Words": "12964    nameerror name actor defined pgzrun python",
+            "isValid": true,
+            "Similarity": 0.9709908962249756
+        }
+    },
+    "126": {
+        "Test Input": "OSError: [WinError 2] No such file or directory. Could not install packages",
+        "The Closest": {
+            "ID": "4888    70164206",
+            "Words": "4888    permissionerror errno 13 permission denied des...",
+            "isValid": true,
+            "Similarity": 0.629432737827301
+        },
+        "Second Closest": {
+            "ID": "8751    59169441",
+            "Words": "8751    importerror could import pil image",
+            "isValid": true,
+            "Similarity": 0.598663330078125
+        }
+    },
+    "127": {
+        "Test Input": "Tkinter IO error when loading a file",
+        "The Closest": {
+            "ID": "560    71880642",
+            "Words": "560    loading file tkinter returns io error",
+            "isValid": true,
+            "Similarity": 0.8118696212768555
+        },
+        "Second Closest": {
+            "ID": "13482    64837375",
+            "Words": "13482    python open program error load component",
+            "isValid": true,
+            "Similarity": 0.6540374755859375
+        }
+    },
+    "128": {
+        "Test Input": "PyCharm permission denied error",
+        "The Closest": {
+            "ID": "574    39658864",
+            "Words": "574    pycharm error errno 13 permission denied",
+            "isValid": false,
+            "Similarity": 0.8015912771224976
+        },
+        "Second Closest": {
+            "ID": "18108    52632777",
+            "Words": "18108    getting nameerror name countvectorizer defined...",
+            "isValid": false,
+            "Similarity": 0.7976582050323486
+        }
+    },
+    "129": {
+        "Test Input": "TypeError while reeading a CSV file",
+        "The Closest": {
+            "ID": "3397    70951071",
+            "Words": "3397    troubleshoot typeerror",
+            "isValid": false,
+            "Similarity": 0.9101521968841553
+        },
+        "Second Closest": {
+            "ID": "14202    57348149",
+            "Words": "14202    typeerror pandas read_excel",
+            "isValid": true,
+            "Similarity": 0.8915908336639404
+        }
+    },
+    "130": {
+        "Test Input": "Value error while viewing a file",
+        "The Closest": {
+            "ID": "641    71858907",
+            "Words": "641    getting value error viewing file",
+            "isValid": true,
+            "Similarity": 0.6717654466629028
+        },
+        "Second Closest": {
+            "ID": "7518    64741628",
+            "Words": "7518    error displaying data filed value tooltip foli...",
+            "isValid": true,
+            "Similarity": 0.5928021669387817
+        }
+    },
+    "131": {
+        "Test Input": "key error when a new list element is added",
+        "The Closest": {
+            "ID": "6445    69343492",
+            "Words": "6445    error element interactable using selenium send...",
+            "isValid": true,
+            "Similarity": 0.7784634828567505
+        },
+        "Second Closest": {
+            "ID": "18862    60584278",
+            "Words": "18862    sort mixed element thruple python keyerror",
+            "isValid": true,
+            "Similarity": 0.7492584586143494
+        }
+    },
+    "132": {
+        "Test Input": "Pip cannot find EnvironmentError metadata",
+        "The Closest": {
+            "ID": "544    54552367",
+            "Words": "544    pip find metadata file environmenterror",
+            "isValid": true,
+            "Similarity": 0.7702056169509888
+        },
+        "Second Closest": {
+            "ID": "13346    64879747",
+            "Words": "13346    _tkinter tclerror find package comm",
+            "isValid": true,
+            "Similarity": 0.7106575965881348
+        }
+    },
+    "133": {
+        "Test Input": "pycharm  exit code -1073740791 (0xC0000409)",
+        "The Closest": {
+            "ID": "7850    44604689",
+            "Words": "7850    pycharm error process finished exit code 10737...",
+            "isValid": true,
+            "Similarity": 0.8373883962631226
+        },
+        "Second Closest": {
+            "ID": "4332    70456522",
+            "Words": "4332    error fix process finished exit code 107374079...",
+            "isValid": true,
+            "Similarity": 0.80660480260849
+        }
+    },
+    "134": {
+        "Test Input": "Django KeyError",
+        "The Closest": {
+            "ID": "7218    58138947",
+            "Words": "7218    keyerror val_acc",
+            "isValid": true,
+            "Similarity": 0.9140934944152832
+        },
+        "Second Closest": {
+            "ID": "14276    64211768",
+            "Words": "14276    keyerror 594750729810477063 discord py",
+            "isValid": true,
+            "Similarity": 0.9132580161094666
+        }
+    },
+    "135": {
+        "Test Input": "Django new model object raises OperationalError",
+        "The Closest": {
+            "ID": "336    65681264",
+            "Words": "336    django operationalerror new model object",
+            "isValid": false,
+            "Similarity": 0.6519067883491516
+        },
+        "Second Closest": {
+            "ID": "2541    71317204",
+            "Words": "2541    django makemigrations raise error remove funct...",
+            "isValid": false,
+            "Similarity": 0.5917269587516785
+        }
+    },
+    "136": {
+        "Test Input": "ImportError: No module named data_preprocess",
+        "The Closest": {
+            "ID": "20160    59512003",
+            "Words": "20160    skilearn importerror dll load failed specified...",
+            "isValid": false,
+            "Similarity": 0.9663797616958618
+        },
+        "Second Closest": {
+            "ID": "5361    32727258",
+            "Words": "5361    local variable referenced assignment error python",
+            "isValid": false,
+            "Similarity": 0.9659202098846436
+        }
+    },
+    "137": {
+        "Test Input": "No columns to parse from file when converting csv to xlsx file",
+        "The Closest": {
+            "ID": "2704    64347681",
+            "Words": "2704    emptydataerror columns parse file streamlit",
+            "isValid": false,
+            "Similarity": 0.6927354335784912
+        },
+        "Second Closest": {
+            "ID": "25025    54623593",
+            "Words": "25025    pandas error converting boolean values actual ...",
+            "isValid": false,
+            "Similarity": 0.6601141691207886
+        }
+    },
+    "138": {
+        "Test Input": "python error: Microsoft Visual C++ 14.0 or greater is required",
+        "The Closest": {
+            "ID": "11818    51460318",
+            "Words": "11818    microsoft visual c 14 0 required error pip ins...",
+            "isValid": false,
+            "Similarity": 0.9223157167434692
+        },
+        "Second Closest": {
+            "ID": "24784    54909189",
+            "Words": "24784    python error following arguments required",
+            "isValid": false,
+            "Similarity": 0.915407121181488
+        }
+    },
+    "139": {
+        "Test Input": "python IndentationError",
+        "The Closest": {
+            "ID": "1807    71550833",
+            "Words": "1807    error committing multiple items one table sqli...",
+            "isValid": false,
+            "Similarity": 0.32168048620224
+        },
+        "Second Closest": {
+            "ID": "24607    39126810",
+            "Words": "24607    session prepared state error sqlalchemy using ...",
+            "isValid": false,
+            "Similarity": 0.3211219310760498
+        }
+    },
+    "140": {
+        "Test Input": "Error while importing ChatBot",
+        "The Closest": {
+            "ID": "16084    53509213",
+            "Words": "16084    error importing tensorflow import tensorflow tf",
+            "isValid": false,
+            "Similarity": 0.9462680816650391
+        },
+        "Second Closest": {
+            "ID": "6013    21657685",
+            "Words": "6013    python importerror import name itemgetter",
+            "isValid": false,
+            "Similarity": 0.9434332847595215
+        }
+    },
+    "141": {
+        "Test Input": "django permission denied to create database",
+        "The Closest": {
+            "ID": "17563    61740499",
+            "Words": "17563    django sqlite3 operationalerror near syntax error",
+            "isValid": false,
+            "Similarity": 0.7449162006378174
+        },
+        "Second Closest": {
+            "ID": "19043    60442037",
+            "Words": "19043    table exist error django using two databases",
+            "isValid": true,
+            "Similarity": 0.7239882349967957
+        }
+    },
+    "142": {
+        "Test Input": "Error 'int' object is not subscriptable",
+        "The Closest": {
+            "ID": "19305    60199078",
+            "Words": "19305    typeerror int object subscriptable int x 2 4",
+            "isValid": false,
+            "Similarity": 0.9644607305526733
+        },
+        "Second Closest": {
+            "ID": "15117    63510351",
+            "Words": "15117    error int object subscriptable python",
+            "isValid": false,
+            "Similarity": 0.9636171460151672
+        }
+    },
+    "143": {
+        "Test Input": "Visual studio code error while fetching extensions",
+        "The Closest": {
+            "ID": "19685    59857405",
+            "Words": "19685    getting botocore exceptions paramvalidationerr...",
+            "isValid": false,
+            "Similarity": 0.6117215156555176
+        },
+        "Second Closest": {
+            "ID": "666    71114155",
+            "Words": "666    vs code throwing error error fetching extensio...",
+            "isValid": false,
+            "Similarity": 0.5944597125053406
+        }
+    },
+    "144": {
+        "Test Input": "Cloudinary [Error 111] on Pythonanywhere",
+        "The Closest": {
+            "ID": "10137    51144485",
+            "Words": "10137    templatedoesnotexist error pythonanywhere",
+            "isValid": false,
+            "Similarity": 0.9665278792381287
+        },
+        "Second Closest": {
+            "ID": "23577    56109990",
+            "Words": "23577    python dictionary key error 0 0 dictionary",
+            "isValid": false,
+            "Similarity": 0.9562956690788269
+        }
+    },
+    "145": {
+        "Test Input": "casting float to int",
+        "The Closest": {
+            "ID": "5689    69772771",
+            "Words": "5689    typeerror concatenate str float str",
+            "isValid": true,
+            "Similarity": 0.8369995951652527
+        },
+        "Second Closest": {
+            "ID": "2675    65174575",
+            "Words": "2675    typeerror supported instances nonetype float",
+            "isValid": true,
+            "Similarity": 0.8162587881088257
+        }
+    },
+    "146": {
+        "Test Input": "http error stotipy spotify API",
+        "The Closest": {
+            "ID": "11221    66378057",
+            "Words": "11221    twitter v2 api 429 http error caught",
+            "isValid": true,
+            "Similarity": 0.931581974029541
+        },
+        "Second Closest": {
+            "ID": "5749    69711034",
+            "Words": "5749    typeerror api __init__ got unexpected keyword ...",
+            "isValid": true,
+            "Similarity": 0.8888525366783142
+        }
+    },
+    "147": {
+        "Test Input": "File Not Found using .tif file",
+        "The Closest": {
+            "ID": "22107    57565590",
+            "Words": "22107    tox error file found project_name",
+            "isValid": true,
+            "Similarity": 0.8671701550483704
+        },
+        "Second Closest": {
+            "ID": "20485    59148592",
+            "Words": "20485    jackshmreadwriteptr error pyttxs3 file",
+            "isValid": true,
+            "Similarity": 0.8447734117507935
+        }
+    },
+    "148": {
+        "Test Input": "Dimension out of range error expected to be in range of [-1, 0], but got 1",
+        "The Closest": {
+            "ID": "312    71947002",
+            "Words": "312    error dimension range expected range 1 0 got 1...",
+            "isValid": true,
+            "Similarity": 0.8373823165893555
+        },
+        "Second Closest": {
+            "ID": "16008    44741134",
+            "Words": "16008    invalidargumenterror expected dimension range ...",
+            "isValid": true,
+            "Similarity": 0.781546950340271
+        }
+    },
+    "149": {
+        "Test Input": "gcloud run deploy gives error \"image must be specified\"",
+        "The Closest": {
+            "ID": "362    71922224",
+            "Words": "362    running gcloud run deploy exactly according tu...",
+            "isValid": true,
+            "Similarity": 0.8472697734832764
+        },
+        "Second Closest": {
+            "ID": "14312    60387236",
+            "Words": "14312    valueerror kivymd app object must inherited ki...",
+            "isValid": true,
+            "Similarity": 0.5807698965072632
+        }
+    },
+    "150": {
+        "Test Input": "got NameError in linked list",
+        "The Closest": {
+            "ID": "19896    59172691",
+            "Words": "19896    get nameerror trying use sharedmemorymanager p...",
+            "isValid": true,
+            "Similarity": 0.6285645365715027
+        },
+        "Second Closest": {
+            "ID": "14599    63937572",
+            "Words": "14599    python import successful get nameerror",
+            "isValid": true,
+            "Similarity": 0.5755329132080078
+        }
+    },
+    "151": {
+        "Test Input": "matplotlib gives error with splitted list",
+        "The Closest": {
+            "ID": "604    71867499",
+            "Words": "604    attributeerror tuple object attribute set_xlim...",
+            "isValid": false,
+            "Similarity": 0.6775726675987244
+        },
+        "Second Closest": {
+            "ID": "4137    70556551",
+            "Words": "4137    typeerror str object callable matplotlib",
+            "isValid": false,
+            "Similarity": 0.6343839764595032
+        }
+    },
+    "152": {
+        "Test Input": "pandas converting column type to datetime in csv file",
+        "The Closest": {
+            "ID": "13966    42468475",
+            "Words": "13966    pandas read_excel keyerror reading set xlsx files",
+            "isValid": true,
+            "Similarity": 0.7021872997283936
+        },
+        "Second Closest": {
+            "ID": "12354    45673458",
+            "Words": "12354    read xml example file xml etree elementtree pa...",
+            "isValid": true,
+            "Similarity": 0.689713180065155
+        }
+    },
+    "153": {
+        "Test Input": "TypeError: unsupported operand type(s) for +: 'int' and 'str'",
+        "The Closest": {
+            "ID": "5852    48764602",
+            "Words": "5852    cygwincompiler typeerror supported instances n...",
+            "isValid": true,
+            "Similarity": 0.9698203802108765
+        },
+        "Second Closest": {
+            "ID": "5385    62952107",
+            "Words": "5385    python supported instances int str error",
+            "isValid": true,
+            "Similarity": 0.9676011204719543
+        }
+    },
+    "154": {
+        "Test Input": "TypeError: train_test_split() got an unexpected keyword argument 'traiset'",
+        "The Closest": {
+            "ID": "25060    52733094",
+            "Words": "25060    error ipykernel requires python version 3 4",
+            "isValid": true,
+            "Similarity": 0.9838613867759705
+        },
+        "Second Closest": {
+            "ID": "20853    58905109",
+            "Words": "20853    nameerror name doohickey defined",
+            "isValid": true,
+            "Similarity": 0.9818670749664307
+        }
+    },
+    "155": {
+        "Test Input": "pip install rioxarray gives RuntimeError",
+        "The Closest": {
+            "ID": "5396    18204782",
+            "Words": "5396    runtimeerror windows trying python multiproces...",
+            "isValid": true,
+            "Similarity": 0.6538592576980591
+        },
+        "Second Closest": {
+            "ID": "9515    22388519",
+            "Words": "9515    problems pip install numpy runtimeerror broken...",
+            "isValid": true,
+            "Similarity": 0.6509475708007812
+        }
+    },
+    "156": {
+        "Test Input": "django makemigrations says no such table",
+        "The Closest": {
+            "ID": "21359    53863318",
+            "Words": "21359    django operationalerror column pythonanywhere",
+            "isValid": false,
+            "Similarity": 0.7024991512298584
+        },
+        "Second Closest": {
+            "ID": "17563    61740499",
+            "Words": "17563    django sqlite3 operationalerror near syntax error",
+            "isValid": false,
+            "Similarity": 0.6629810929298401
+        }
+    },
+    "157": {
+        "Test Input": "Error while giving different parameters with multiclass classificaiton in Keras",
+        "The Closest": {
+            "ID": "19289    60211829",
+            "Words": "19289    keras input raises value error dimensioons match",
+            "isValid": true,
+            "Similarity": 0.6457157731056213
+        },
+        "Second Closest": {
+            "ID": "16428    62530122",
+            "Words": "16428    gekko using gekko optimize cad models paramete...",
+            "isValid": true,
+            "Similarity": 0.556381106376648
+        }
+    },
+    "158": {
+        "Test Input": "pyttsx3 error  while converting to exe",
+        "The Closest": {
+            "ID": "9812    63655566",
+            "Words": "9812    nameerror name compile_and_fit defined",
+            "isValid": true,
+            "Similarity": 0.9487758874893188
+        },
+        "Second Closest": {
+            "ID": "1469    61174405",
+            "Words": "1469    jupyter notebooks recognizing file directory c...",
+            "isValid": true,
+            "Similarity": 0.9487440586090088
+        }
+    },
+    "159": {
+        "Test Input": "TypeError: can only concatenate str (not 'int') to str",
+        "The Closest": {
+            "ID": "9143    67699902",
+            "Words": "9143    typeerror convert_to_audio takes 2 positional ...",
+            "isValid": false,
+            "Similarity": 0.9846131205558777
+        },
+        "Second Closest": {
+            "ID": "15771    63003344",
+            "Words": "15771    supported instances str int error",
+            "isValid": false,
+            "Similarity": 0.9819542765617371
+        }
+    },
+    "160": {
+        "Test Input": "NameError: name 'Movie' is not defined in pgzrun/python",
+        "The Closest": {
+            "ID": "5255    69991395",
+            "Words": "5255    nameerror name sim_functions defined",
+            "isValid": false,
+            "Similarity": 0.9841251373291016
+        },
+        "Second Closest": {
+            "ID": "531    71890193",
+            "Words": "531    nameerror name alabama defined",
+            "isValid": true,
+            "Similarity": 0.9815941452980042
+        }
+    },
+    "161": {
+        "Test Input": "Keras ValueError: Shapes (None, 1) and (None, 100, 100, 200) are incompatible",
+        "The Closest": {
+            "ID": "22464    57239256",
+            "Words": "22464    keras conv1d input shape error checking input",
+            "isValid": true,
+            "Similarity": 0.9449405670166016
+        },
+        "Second Closest": {
+            "ID": "24764    54925653",
+            "Words": "24764    keras tensorflow alreadyexistserror",
+            "isValid": true,
+            "Similarity": 0.9433367252349854
+        }
+    },
+    "162": {
+        "Test Input": "python giving nonetype object is not iterable",
+        "The Closest": {
+            "ID": "9610    67452236",
+            "Words": "9610    clicking button selenium giving error",
+            "isValid": false,
+            "Similarity": 0.954245388507843
+        },
+        "Second Closest": {
+            "ID": "17242    61604532",
+            "Words": "17242    specutils fit_generic_continuum giving typeerr...",
+            "isValid": false,
+            "Similarity": 0.9533616304397583
+        }
+    },
+    "163": {
+        "Test Input": "Error - input expected at most 2 argument, got 5",
+        "The Closest": {
+            "ID": "12971    9969844",
+            "Words": "12971    error input expected 1 argument got 3",
+            "isValid": true,
+            "Similarity": 0.8818105459213257
+        },
+        "Second Closest": {
+            "ID": "664    71853627",
+            "Words": "664    change input getting error 503",
+            "isValid": true,
+            "Similarity": 0.7785792350769043
+        }
+    },
+    "164": {
+        "Test Input": "Crawling data with Selenium throwing TimeoutException",
+        "The Closest": {
+            "ID": "12972    65249240",
+            "Words": "12972    crawl data selenium throws errors timeoutexcep...",
+            "isValid": true,
+            "Similarity": 0.8509750366210938
+        },
+        "Second Closest": {
+            "ID": "4600    70326249",
+            "Words": "4600    selenium next pages javascript throwing elemen...",
+            "isValid": true,
+            "Similarity": 0.7192742228507996
+        }
+    },
+    "165": {
+        "Test Input": "while parsing JSON TypeError: list indices must be integers or slices, not str",
+        "The Closest": {
+            "ID": "16573    62424953",
+            "Words": "16573    python float error unsupported operand type fl...",
+            "isValid": false,
+            "Similarity": 0.8770220875740051
+        },
+        "Second Closest": {
+            "ID": "14538    63990224",
+            "Words": "14538    python json typeerror list indices must intege...",
+            "isValid": false,
+            "Similarity": 0.8667734861373901
+        }
+    },
+    "166": {
+        "Test Input": "ModuleNotFoundError: No module named 'Networkx'",
+        "The Closest": {
+            "ID": "18953    60496280",
+            "Words": "18953    python error modulenotfounderror module named ...",
+            "isValid": false,
+            "Similarity": 0.9020889401435852
+        },
+        "Second Closest": {
+            "ID": "11939    54836399",
+            "Words": "11939    modulenotfounderror module named google cloud",
+            "isValid": true,
+            "Similarity": 0.9000223278999329
+        }
+    },
+    "167": {
+        "Test Input": "Python modulenotfounderror for an installed library",
+        "The Closest": {
+            "ID": "4419    60299336",
+            "Words": "4419    error installing symfit library python",
+            "isValid": true,
+            "Similarity": 0.9531946182250977
+        },
+        "Second Closest": {
+            "ID": "12579    65528747",
+            "Words": "12579    attributeerror nonetype object attribute text ...",
+            "isValid": true,
+            "Similarity": 0.9368356466293335
+        }
+    },
+    "168": {
+        "Test Input": "unresolved reference in python",
+        "The Closest": {
+            "ID": "9571    67464770",
+            "Words": "9571    navigablestring error refers happened",
+            "isValid": false,
+            "Similarity": 0.9462277889251709
+        },
+        "Second Closest": {
+            "ID": "18272    61125554",
+            "Words": "18272    python selenium error element attached page do...",
+            "isValid": false,
+            "Similarity": 0.9100772738456726
+        }
+    },
+    "169": {
+        "Test Input": "ValueError: cannot reshape array of size 700 into shape (50,50,7)",
+        "The Closest": {
+            "ID": "7871    68515775",
+            "Words": "7871    valueerror x_train_data shaped three dimensional",
+            "isValid": true,
+            "Similarity": 0.9014636278152466
+        },
+        "Second Closest": {
+            "ID": "12990    65217306",
+            "Words": "12990    valueerror reshape array size 300 shape 100 100 3",
+            "isValid": true,
+            "Similarity": 0.8854598999023438
+        }
+    },
+    "170": {
+        "Test Input": "TypeError: bytes like object is required not str",
+        "The Closest": {
+            "ID": "13663    43839536",
+            "Words": "13663    typeerror generatecode takes 0 positional argu...",
+            "isValid": false,
+            "Similarity": 0.9681547284126282
+        },
+        "Second Closest": {
+            "ID": "3340    70982502",
+            "Words": "3340    python unsupported operand type typeerror",
+            "isValid": false,
+            "Similarity": 0.9624090790748596
+        }
+    },
+    "171": {
+        "Test Input": "ValueError: could not convert string to float: 'price'",
+        "The Closest": {
+            "ID": "3692    40645840",
+            "Words": "3692    attributeerror type object datetime datetime a...",
+            "isValid": false,
+            "Similarity": 0.9031181335449219
+        },
+        "Second Closest": {
+            "ID": "16101    62785773",
+            "Words": "16101    attributeerror numpy ndarray object attribute ...",
+            "isValid": false,
+            "Similarity": 0.8918989300727844
+        }
+    },
+    "172": {
+        "Test Input": "python 'bool' object is not subscriptable",
+        "The Closest": {
+            "ID": "11472    62951782",
+            "Words": "11472    typeerror create_estimator_and_inputs missing ...",
+            "isValid": false,
+            "Similarity": 0.979091465473175
+        },
+        "Second Closest": {
+            "ID": "254    71961691",
+            "Words": "254    typeerror bool object callable python",
+            "isValid": false,
+            "Similarity": 0.9772884845733643
+        }
+    },
+    "173": {
+        "Test Input": "pygraphviz_layout gives KeyError: Node not in graph",
+        "The Closest": {
+            "ID": "13004    64386190",
+            "Words": "13004    keyerror node graph using pygraphviz_layout ev...",
+            "isValid": true,
+            "Similarity": 0.8333110213279724
+        },
+        "Second Closest": {
+            "ID": "5588    69821286",
+            "Words": "5588    keyerror color networkx",
+            "isValid": true,
+            "Similarity": 0.8031609654426575
+        }
+    },
+    "174": {
+        "Test Input": "error when reading from csv with datatable",
+        "The Closest": {
+            "ID": "6916    30696030",
+            "Words": "6916    multivaluedictkeyerror request post",
+            "isValid": false,
+            "Similarity": 0.9806821942329407
+        },
+        "Second Closest": {
+            "ID": "21130    58598012",
+            "Words": "21130    ctypes errors argv",
+            "isValid": false,
+            "Similarity": 0.9797555208206177
+        }
+    },
+    "175": {
+        "Test Input": "pytest AttributeError: 'Function' object has no attribute 'get_customer'",
+        "The Closest": {
+            "ID": "12239    15930454",
+            "Words": "12239    python attributeerror function object attribut...",
+            "isValid": false,
+            "Similarity": 0.728614330291748
+        },
+        "Second Closest": {
+            "ID": "13056    54254337",
+            "Words": "13056    pytest attributeerror function object attribut...",
+            "isValid": false,
+            "Similarity": 0.6963068246841431
+        }
+    },
+    "176": {
+        "Test Input": "got error  __init__() got an unexpected keyword argument 'movie_Artist' in python",
+        "The Closest": {
+            "ID": "14963    63621520",
+            "Words": "14963    gridsearchcv giving __init__ got unexpected ke...",
+            "isValid": false,
+            "Similarity": 0.8797589540481567
+        },
+        "Second Closest": {
+            "ID": "16612    62383760",
+            "Words": "16612    charecter giving error discord py",
+            "isValid": false,
+            "Similarity": 0.8696850538253784
+        }
+    },
+    "177": {
+        "Test Input": "ImportError: cannot import name 'Pooling' from 'sklearn'",
+        "The Closest": {
+            "ID": "23587    56120904",
+            "Words": "23587    typeerror __init__ got unexpected keyword argu...",
+            "isValid": false,
+            "Similarity": 0.60056471824646
+        },
+        "Second Closest": {
+            "ID": "19726    59684906",
+            "Words": "19726    ray multiprocessing inside class typeerror par...",
+            "isValid": false,
+            "Similarity": 0.5892513990402222
+        }
+    },
+    "178": {
+        "Test Input": "typeerror: 'str' object is not callable",
+        "The Closest": {
+            "ID": "13077    65187257",
+            "Words": "13077    python typeerror list object callable",
+            "isValid": false,
+            "Similarity": 0.9678620100021362
+        },
+        "Second Closest": {
+            "ID": "17852    61491432",
+            "Words": "17852    typeerror ball object callable",
+            "isValid": false,
+            "Similarity": 0.96204674243927
+        }
+    },
+    "179": {
+        "Test Input": "chromedriver not working while web scraping filenotfound error",
+        "The Closest": {
+            "ID": "5716    69747835",
+            "Words": "5716    selenium find element xpath work python error ...",
+            "isValid": true,
+            "Similarity": 0.8607743978500366
+        },
+        "Second Closest": {
+            "ID": "19692    59842140",
+            "Words": "19692    selenium chromedriver error chome reachable dr...",
+            "isValid": true,
+            "Similarity": 0.7956340312957764
+        }
+    },
+    "180": {
+        "Test Input": "ascii' codec can't decode byte 0xe7 in position 0: ordinal not in range(256)",
+        "The Closest": {
+            "ID": "20749    58963877",
+            "Words": "20749    typeerror range indices must integers slices t...",
+            "isValid": true,
+            "Similarity": 0.831813395023346
+        },
+        "Second Closest": {
+            "ID": "18540    60904194",
+            "Words": "18540    python unicodeencodeerror ascii codec encode c...",
+            "isValid": true,
+            "Similarity": 0.8208751082420349
+        }
+    },
+    "181": {
+        "Test Input": "ValueError: could not convert string to float, after removing unwanted characters in column (Pandas)",
+        "The Closest": {
+            "ID": "13099    65178543",
+            "Words": "13099    valueerror could convert string float removing...",
+            "isValid": true,
+            "Similarity": 0.7173585295677185
+        },
+        "Second Closest": {
+            "ID": "18442    60980848",
+            "Words": "18442    syntaxerror comparing date field python",
+            "isValid": true,
+            "Similarity": 0.6441292762756348
+        }
+    },
+    "182": {
+        "Test Input": "encoding error \"utf-8\" python",
+        "The Closest": {
+            "ID": "18699    60745225",
+            "Words": "18699    error using auc decisiontreeclassifier python",
+            "isValid": false,
+            "Similarity": 0.9848618507385254
+        },
+        "Second Closest": {
+            "ID": "11536    56269353",
+            "Words": "11536    connection error connecting mysql database python",
+            "isValid": false,
+            "Similarity": 0.9824206233024597
+        }
+    },
+    "183": {
+        "Test Input": "Pycharm: Unresolved reference error when I open a project",
+        "The Closest": {
+            "ID": "13123    20479696",
+            "Words": "13123    pycharm unresolved reference error ide opening...",
+            "isValid": true,
+            "Similarity": 0.8324739933013916
+        },
+        "Second Closest": {
+            "ID": "7868    68532634",
+            "Words": "7868    keep getting unresolved reference error use ki...",
+            "isValid": true,
+            "Similarity": 0.747882068157196
+        }
+    },
+    "184": {
+        "Test Input": "python break outside loop error in for loop",
+        "The Closest": {
+            "ID": "9943    67248546",
+            "Words": "9943    python discord bot error \u00e4\u00f4t seen",
+            "isValid": false,
+            "Similarity": 0.9848645925521851
+        },
+        "Second Closest": {
+            "ID": "7562    68697797",
+            "Words": "7562    python django operationalerror admin django re...",
+            "isValid": false,
+            "Similarity": 0.9845370054244995
+        }
+    },
+    "185": {
+        "Test Input": "cannot multiply matrix numpy",
+        "The Closest": {
+            "ID": "8334    67953548",
+            "Words": "8334    error appending list elements dictionary python",
+            "isValid": false,
+            "Similarity": 0.8982665538787842
+        },
+        "Second Closest": {
+            "ID": "6002    69600902",
+            "Words": "6002    error division zero spelling sugestion",
+            "isValid": false,
+            "Similarity": 0.8949108123779297
+        }
+    },
+    "186": {
+        "Test Input": "python3 installing mysqlclient gives error",
+        "The Closest": {
+            "ID": "1307    44612991",
+            "Words": "1307    error installing coremltools",
+            "isValid": true,
+            "Similarity": 0.9308587312698364
+        },
+        "Second Closest": {
+            "ID": "22061    46814082",
+            "Words": "22061    error installation python",
+            "isValid": true,
+            "Similarity": 0.9236112833023071
+        }
+    },
+    "187": {
+        "Test Input": "scraping HTML span by class gives error",
+        "The Closest": {
+            "ID": "18864    58903405",
+            "Words": "18864    trying scrape html span value class returns error",
+            "isValid": true,
+            "Similarity": 0.5917408466339111
+        },
+        "Second Closest": {
+            "ID": "2770    71211301",
+            "Words": "2770    get text beautifulsoup html table scrape get_t...",
+            "isValid": true,
+            "Similarity": 0.4802851676940918
+        }
+    },
+    "188": {
+        "Test Input": "python path no such file or directory",
+        "The Closest": {
+            "ID": "24798    54894636",
+            "Words": "24798    quandl jupyter notebook limitexceedederror",
+            "isValid": false,
+            "Similarity": 0.9789189100265503
+        },
+        "Second Closest": {
+            "ID": "14648    63878266",
+            "Words": "14648    p open q r filenotfounderror errno 2 file dire...",
+            "isValid": false,
+            "Similarity": 0.9757920503616333
+        }
+    },
+    "189": {
+        "Test Input": "AttributeError: 'Request' object has no attribute 'question'",
+        "The Closest": {
+            "ID": "16621    22278993",
+            "Words": "16621    attributeerror module object attribute request",
+            "isValid": false,
+            "Similarity": 0.7882426381111145
+        },
+        "Second Closest": {
+            "ID": "3181    71033206",
+            "Words": "3181    attributeerror str object attribute request go...",
+            "isValid": false,
+            "Similarity": 0.6988341212272644
+        }
+    },
+    "190": {
+        "Test Input": "ValueError: expected dense_x to have shape (57,) but got array with shape (4,)",
+        "The Closest": {
+            "ID": "16015    62847518",
+            "Words": "16015    valueerror shapes none 2 none 1 incompatible",
+            "isValid": true,
+            "Similarity": 0.9080849885940552
+        },
+        "Second Closest": {
+            "ID": "9519    67503053",
+            "Words": "9519    valueerror custom keras layer",
+            "isValid": true,
+            "Similarity": 0.908043622970581
+        }
+    },
+    "191": {
+        "Test Input": "sorting df by date gives check for duplicates error",
+        "The Closest": {
+            "ID": "18939    60531150",
+            "Words": "18939    check duplicates error trying sort dataframe d...",
+            "isValid": true,
+            "Similarity": 0.5986281037330627
+        },
+        "Second Closest": {
+            "ID": "24223    55515115",
+            "Words": "24223    pandas returns dataerror seaborn plots datafra...",
+            "isValid": true,
+            "Similarity": 0.5006273984909058
+        }
+    },
+    "192": {
+        "Test Input": "AttributeError occurs trying to copy content from a file to another",
+        "The Closest": {
+            "ID": "81    72001460",
+            "Words": "81    calling method another file attributeerror obj...",
+            "isValid": true,
+            "Similarity": 0.6908838748931885
+        },
+        "Second Closest": {
+            "ID": "17110    62066468",
+            "Words": "17110    attributeerror list object attribute find_elem...",
+            "isValid": true,
+            "Similarity": 0.6560760736465454
+        }
+    },
+    "193": {
+        "Test Input": "when I try to reach a character it says TypeError: string indices must be integers",
+        "The Closest": {
+            "ID": "21752    58001757",
+            "Words": "21752    way increase line length equation gekko receiv...",
+            "isValid": false,
+            "Similarity": 0.6782735586166382
+        },
+        "Second Closest": {
+            "ID": "7306    68843752",
+            "Words": "7306    pyodbc error sql data argument range 30030 sql...",
+            "isValid": false,
+            "Similarity": 0.6781193614006042
+        }
+    },
+    "194": {
+        "Test Input": "Python nested exception statement in another exception try catch",
+        "The Closest": {
+            "ID": "13875    64532274",
+            "Words": "13875    error performing python try except part",
+            "isValid": true,
+            "Similarity": 0.8201107978820801
+        },
+        "Second Closest": {
+            "ID": "11452    29740185",
+            "Words": "11452    avoid possible errors try except function",
+            "isValid": true,
+            "Similarity": 0.8166698813438416
+        }
+    },
+    "195": {
+        "Test Input": "TypeError: __init__() missing 1 required positional argument: 'on_click'",
+        "The Closest": {
+            "ID": "9764    67366751",
+            "Words": "9764    typeerror __init__ missing 2 required position...",
+            "isValid": false,
+            "Similarity": 0.9803419709205627
+        },
+        "Second Closest": {
+            "ID": "5159    70041418",
+            "Words": "5159    typeerror start_new_game missing 1 required po...",
+            "isValid": false,
+            "Similarity": 0.9777363538742065
+        }
+    },
+    "196": {
+        "Test Input": "PdfReadError: EOF marker not found while parsing word document in python",
+        "The Closest": {
+            "ID": "24736    54894917",
+            "Words": "24736    handle index range errors parsing large quanti...",
+            "isValid": false,
+            "Similarity": 0.5945338010787964
+        },
+        "Second Closest": {
+            "ID": "19022    59883428",
+            "Words": "19022    getting indexerror string index range loading ...",
+            "isValid": false,
+            "Similarity": 0.5429626703262329
+        }
+    },
+    "197": {
+        "Test Input": "flask error on heroku gives error while opening an excel file",
+        "The Closest": {
+            "ID": "12492    65017512",
+            "Words": "12492    keyerror flask app uploaded csv csv heroku",
+            "isValid": false,
+            "Similarity": 0.6073697209358215
+        },
+        "Second Closest": {
+            "ID": "21553    58249307",
+            "Words": "21553    encoding error trying open json file django app",
+            "isValid": false,
+            "Similarity": 0.5761100053787231
+        }
+    },
+    "198": {
+        "Test Input": "math.sin() gives error",
+        "The Closest": {
+            "ID": "19013    60462433",
+            "Words": "19013    get error error mean",
+            "isValid": false,
+            "Similarity": 0.8834136724472046
+        },
+        "Second Closest": {
+            "ID": "18034    33133070",
+            "Words": "18034    math pow throw overflowerror x",
+            "isValid": false,
+            "Similarity": 0.8609089851379395
+        }
+    },
+    "199": {
+        "Test Input": "Python raises ValueError when comparing int and array value",
+        "The Closest": {
+            "ID": "2542    71318410",
+            "Words": "2542    remove tuple based elements elements np array ...",
+            "isValid": false,
+            "Similarity": 0.5891690850257874
+        },
+        "Second Closest": {
+            "ID": "19171    60346996",
+            "Words": "19171    creating float32 array list raises value error",
+            "isValid": false,
+            "Similarity": 0.5622768998146057
+        }
+    },
+    "200": {
+        "Test Input": "request import gives error while webscraping",
+        "The Closest": {
+            "ID": "19142    59178546",
+            "Words": "19142    webscraping python request import error",
+            "isValid": false,
+            "Similarity": 0.8846614360809326
+        },
+        "Second Closest": {
+            "ID": "21576    32986626",
+            "Words": "21576    python requests importerror import name header...",
+            "isValid": false,
+            "Similarity": 0.7406607866287231
+        }
+    },
+    "201": {
+        "Test Input": "PermissionError: [Errno 13] Permission denied: 'video.mp4'",
+        "The Closest": {
+            "ID": "12579    65528747",
+            "Words": "12579    attributeerror nonetype object attribute text ...",
+            "isValid": false,
+            "Similarity": 0.8574109673500061
+        },
+        "Second Closest": {
+            "ID": "21837    57943337",
+            "Words": "21837    error sending post request data",
+            "isValid": false,
+            "Similarity": 0.8563716411590576
+        }
+    }
+}
