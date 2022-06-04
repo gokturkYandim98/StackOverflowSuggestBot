@@ -1714,7 +1714,7 @@
         "The Closest": {
             "ID": "272    16865997",
             "Words": "272    python bottle module causes error 413 request ...",
-            "isValid": false,
+            "isValid": true,
             "Similarity": 0.8603633046150208
         },
         "Second Closest": {

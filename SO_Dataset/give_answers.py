@@ -8,8 +8,8 @@ question = input("Enter your question about python: ")
 
 #here send question to the model    question 
 
-question_id1=59929028 #id coming from the model
-title1="Python: FastAPI error 422 with post request" #title coming from the model
+question_id1=62847518 #id coming from the model
+title1="valueerror shapes none 2 none 1 incompatible" #title coming from the model
 isValid1=True
 isValid2=True
 question_id2=23234 #id coming from the model
