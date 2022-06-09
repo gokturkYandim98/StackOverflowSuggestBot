@@ -1,5 +1,5 @@
 # StackOverflowSuggestBot
-This project aims to create an automatic tool that suggests solutions to python errors from stacokverflow
+This project aims to create an automatic tool that suggests solutions to python errors from Stack Overflow
 
 
 Developing software free from any syntax and/or compilation errors is a crucial task. 
@@ -10,4 +10,4 @@ To do so, we used 298.000 Stackoverflow Python Question-Solution set to train a 
 Finally, our model provided good suggestions with 59\% rate with a 79\% similarity score. 
 
 
-[Jira Page:](https://cs48000-team1.atlassian.net/jira/software/c/projects/CT/boards/1)
+[Jira Page Link:](https://cs48000-team1.atlassian.net/jira/software/c/projects/CT/boards/1)
