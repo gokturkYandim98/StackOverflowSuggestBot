@@ -1,6 +1,7 @@
 # StackOverflowSuggestBot
 This project aims to create an automatic tool that suggests solutions to python errors from Stack Overflow
 
+Project Description:
 
 Developing software free from any syntax and/or compilation errors is a crucial task. 
 It is well-known in the software community that this is not always easy to accomplish considering how hard finding and solving errors can be. 
@@ -9,5 +10,21 @@ Our motivation is to reduce this development effort by automating the process of
 To do so, we used 298.000 Stackoverflow Python Question-Solution set to train a Doc2Vec model and created 200 manual test data to evaluate our model. 
 Finally, our model provided good suggestions with 59\% rate with a 79\% similarity score. 
 
+[Our Jira page link can be found here](https://cs48000-team1.atlassian.net/jira/software/c/projects/CT/boards/1)
 
-[Jira Page Link:](https://cs48000-team1.atlassian.net/jira/software/c/projects/CT/boards/1)
+How to Install, Repeat, Replicate, or Reproduce the Results Presented: 
+
+These instructions should include notes illustrating a very basic usage example or a method to test the installation. 
+
+This could be, for instance, on what output to expect that confirms that the code is installed and working; and the code is doing something interesting and useful.
+ 
+ 
+A copy of term paper in PDF format.(optional)
+
+
+
+
+
+
+
+
