@@ -59,9 +59,6 @@ https://neculaifantanaru.com/en/example-google-translate-api-key-python-code-bea
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 or the output can be "We couldn't find any matches"  as our model can not find matches time to time. But these kind of outputs (regarding finding a match and not) would indicate that code is working and can be useful for you.
-
-şunu istiyor hoca eklenecek şey varsa ekleyin ve mail atmıştı oraya da bakabilirsiniz:
-(These instructions should include notes illustrating a very basic usage example or a method to test the installation. This could be, for instance, on what output to expect that confirms that the code is installed and working; and the code is doing something interesting and useful.)
  
 
 
