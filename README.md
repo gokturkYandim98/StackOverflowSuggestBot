@@ -11,7 +11,7 @@ To do so, we used 298.000 Stackoverflow Python Question-Solution set to train a 
 Finally, our model provided good suggestions with a 59\% rate with a 79\% similarity score. 
 
 Our Jira page link can be found [here](https://cs48000-team1.atlassian.net/jira/software/c/projects/CT/boards/1)\
-Final report can be found here [here](https://github.com/gokturkYandim98/StackOverflowSuggestBot/blob/main/CS48000_Final_Report.pdf)
+Final report can be found [here](https://github.com/gokturkYandim98/StackOverflowSuggestBot/blob/main/CS48000_Final_Report.pdf)
 
 - How to Install, Repeat, Replicate, or Reproduce the Results Presented: 
 
